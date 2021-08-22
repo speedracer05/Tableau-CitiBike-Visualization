@@ -14,11 +14,14 @@ ultricies ornare. Fusce nec magna aliquet, congue ante in, lobortis augue. Nunc
 hendrerit massa ut risus molestie egestas.
 
 
-### Data Source: [a link](https://www.citibikenyc.com/system-data)
+### 
 
 ## How to View
-1. <strong>Tableau Public Workbook</strong>: [a link](https://public.tableau.com/profile/...)
-2. 
+1. [Data Source](https://www.citibikenyc.com/system-data)
+2. Go to this link to see my [Tableau Public Workbook](https://public.tableau.com/profile/...)
+3. In the lower, right corner of the slide is the "Full Screen" mode - click it.
+![tableau slide](https://github.com/speedracer05/...)
+
 ## Data Preparation
 - Extracted data from CitiBike
 - Transformed data in Jupyter Notebook

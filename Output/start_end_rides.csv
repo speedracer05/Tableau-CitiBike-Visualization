@@ -1,0 +1,2004 @@
+,start_station_name,end_station_name,Number_of_Trips
+0,5 Corners Library,Baldwin at Montgomery,3
+1,5 Corners Library,Bergen Ave,1
+2,5 Corners Library,Brunswick & 6th,2
+3,5 Corners Library,Brunswick St,10
+4,5 Corners Library,Christ Hospital,5
+5,5 Corners Library,City Hall,1
+6,5 Corners Library,Columbus Drive,3
+7,5 Corners Library,Communipaw & Berry Lane,2
+8,5 Corners Library,Dey St,5
+9,5 Corners Library,Fairmount Ave,3
+10,5 Corners Library,Grand St,1
+11,5 Corners Library,Grove St PATH,5
+12,5 Corners Library,Hamilton Park,9
+13,5 Corners Library,Harborside,5
+14,5 Corners Library,Heights Elevator,2
+15,5 Corners Library,Hilltop,5
+16,5 Corners Library,Hoboken Ave at Monmouth St,3
+17,5 Corners Library,JC Medical Center,1
+18,5 Corners Library,Jackson Square,1
+19,5 Corners Library,Jersey & 6th St,1
+20,5 Corners Library,Lafayette Park,2
+21,5 Corners Library,Leonard Gordon Park,4
+22,5 Corners Library,Liberty Light Rail,1
+23,5 Corners Library,Lincoln Park,1
+24,5 Corners Library,Manila & 1st,1
+25,5 Corners Library,Marin Light Rail,3
+26,5 Corners Library,McGinley Square,5
+27,5 Corners Library,Monmouth and 6th,3
+28,5 Corners Library,Montgomery St,3
+29,5 Corners Library,Newark Ave,6
+30,5 Corners Library,Newport PATH,4
+31,5 Corners Library,Newport Pkwy,11
+32,5 Corners Library,Oakland Ave,2
+33,5 Corners Library,Pershing Field,12
+34,5 Corners Library,Riverview Park,2
+35,5 Corners Library,Sip Ave,4
+36,5 Corners Library,Van Vorst Park,3
+37,5 Corners Library,Washington St,1
+38,5 Corners Library,York St,2
+39,Astor Place,Baldwin at Montgomery,2
+40,Astor Place,Bergen Ave,7
+41,Astor Place,Brunswick & 6th,2
+42,Astor Place,Brunswick St,2
+43,Astor Place,City Hall,1
+44,Astor Place,Columbus Dr at Exchange Pl,2
+45,Astor Place,Columbus Drive,1
+46,Astor Place,Communipaw & Berry Lane,3
+47,Astor Place,Dixon Mills,1
+48,Astor Place,Fairmount Ave,36
+49,Astor Place,Glenwood Ave,1
+50,Astor Place,Grand St,2
+51,Astor Place,Grove St PATH,10
+52,Astor Place,Hamilton Park,2
+53,Astor Place,Harborside,5
+54,Astor Place,Heights Elevator,1
+55,Astor Place,Hilltop,1
+56,Astor Place,JC Medical Center,4
+57,Astor Place,Jackson Square,13
+58,Astor Place,Journal Square,1
+59,Astor Place,Leonard Gordon Park,1
+60,Astor Place,Liberty Light Rail,4
+61,Astor Place,Lincoln Park,11
+62,Astor Place,Manila & 1st,6
+63,Astor Place,Marin Light Rail,3
+64,Astor Place,McGinley Square,14
+65,Astor Place,Montgomery St,5
+66,Astor Place,Newark Ave,8
+67,Astor Place,Newport PATH,1
+68,Astor Place,Oakland Ave,1
+69,Astor Place,Paulus Hook,3
+70,Astor Place,Pershing Field,41
+71,Astor Place,Sip Ave,118
+72,Astor Place,Van Vorst Park,4
+73,Astor Place,Warren St,2
+74,Astor Place,York St,2
+75,Baldwin at Montgomery,5 Corners Library,3
+76,Baldwin at Montgomery,Bergen Ave,2
+77,Baldwin at Montgomery,Brunswick & 6th,8
+78,Baldwin at Montgomery,Brunswick St,9
+79,Baldwin at Montgomery,Christ Hospital,1
+80,Baldwin at Montgomery,City Hall,27
+81,Baldwin at Montgomery,Columbus Dr at Exchange Pl,14
+82,Baldwin at Montgomery,Columbus Drive,5
+83,Baldwin at Montgomery,Communipaw & Berry Lane,2
+84,Baldwin at Montgomery,Dey St,1
+85,Baldwin at Montgomery,Dixon Mills,2
+86,Baldwin at Montgomery,Fairmount Ave,2
+87,Baldwin at Montgomery,Glenwood Ave,1
+88,Baldwin at Montgomery,Grand St,18
+89,Baldwin at Montgomery,Grove St PATH,94
+90,Baldwin at Montgomery,Hamilton Park,6
+91,Baldwin at Montgomery,Harborside,3
+92,Baldwin at Montgomery,Heights Elevator,4
+93,Baldwin at Montgomery,Hilltop,10
+94,Baldwin at Montgomery,Hoboken Ave at Monmouth St,1
+95,Baldwin at Montgomery,JC Medical Center,12
+96,Baldwin at Montgomery,Jackson Square,2
+97,Baldwin at Montgomery,Jersey & 3rd,1
+98,Baldwin at Montgomery,Jersey & 6th St,1
+99,Baldwin at Montgomery,Journal Square,17
+100,Baldwin at Montgomery,Lafayette Park,2
+101,Baldwin at Montgomery,Liberty Light Rail,4
+102,Baldwin at Montgomery,Lincoln Park,8
+103,Baldwin at Montgomery,Manila & 1st,11
+104,Baldwin at Montgomery,Marin Light Rail,4
+105,Baldwin at Montgomery,McGinley Square,16
+106,Baldwin at Montgomery,Monmouth and 6th,4
+107,Baldwin at Montgomery,Montgomery St,9
+108,Baldwin at Montgomery,Morris Canal,3
+109,Baldwin at Montgomery,Newark Ave,25
+110,Baldwin at Montgomery,Newport PATH,7
+111,Baldwin at Montgomery,Newport Pkwy,9
+112,Baldwin at Montgomery,Oakland Ave,1
+113,Baldwin at Montgomery,Paulus Hook,4
+114,Baldwin at Montgomery,Pershing Field,1
+115,Baldwin at Montgomery,Riverview Park,2
+116,Baldwin at Montgomery,Sip Ave,115
+117,Baldwin at Montgomery,Union St,4
+118,Baldwin at Montgomery,Van Vorst Park,16
+119,Baldwin at Montgomery,Warren St,9
+120,Baldwin at Montgomery,Washington St,16
+121,Baldwin at Montgomery,York St,2
+122,Bergen Ave,5 Corners Library,1
+123,Bergen Ave,Astor Place,10
+124,Bergen Ave,Baldwin at Montgomery,1
+125,Bergen Ave,Brunswick St,4
+126,Bergen Ave,City Hall,7
+127,Bergen Ave,Columbus Dr at Exchange Pl,2
+128,Bergen Ave,Columbus Drive,1
+129,Bergen Ave,Communipaw & Berry Lane,4
+130,Bergen Ave,Dixon Mills,1
+131,Bergen Ave,Fairmount Ave,1
+132,Bergen Ave,Glenwood Ave,1
+133,Bergen Ave,Grand St,8
+134,Bergen Ave,Grove St PATH,7
+135,Bergen Ave,Hamilton Park,5
+136,Bergen Ave,Harborside,2
+137,Bergen Ave,Heights Elevator,3
+138,Bergen Ave,Hilltop,2
+139,Bergen Ave,JC Medical Center,2
+140,Bergen Ave,Jackson Square,2
+141,Bergen Ave,Jersey & 3rd,1
+142,Bergen Ave,Journal Square,9
+143,Bergen Ave,Lafayette Park,2
+144,Bergen Ave,Liberty Light Rail,4
+145,Bergen Ave,Lincoln Park,6
+146,Bergen Ave,Manila & 1st,3
+147,Bergen Ave,Marin Light Rail,2
+148,Bergen Ave,McGinley Square,8
+149,Bergen Ave,Montgomery St,4
+150,Bergen Ave,Morris Canal,2
+151,Bergen Ave,Newark Ave,3
+152,Bergen Ave,Newport PATH,4
+153,Bergen Ave,North Moore St & Greenwich St,1
+154,Bergen Ave,Oakland Ave,1
+155,Bergen Ave,Paulus Hook,8
+156,Bergen Ave,Pershing Field,5
+157,Bergen Ave,Sip Ave,131
+158,Bergen Ave,Union St,1
+159,Bergen Ave,Van Vorst Park,1
+160,Bergen Ave,Washington St,1
+161,Bergen Ave,York St,10
+162,Brunswick & 6th,5 Corners Library,1
+163,Brunswick & 6th,Astor Place,1
+164,Brunswick & 6th,Baldwin at Montgomery,5
+165,Brunswick & 6th,Bergen Ave,5
+166,Brunswick & 6th,Brunswick St,10
+167,Brunswick & 6th,City Hall,16
+168,Brunswick & 6th,Columbus Dr at Exchange Pl,15
+169,Brunswick & 6th,Columbus Drive,10
+170,Brunswick & 6th,Communipaw & Berry Lane,1
+171,Brunswick & 6th,Dixon Mills,8
+172,Brunswick & 6th,Fairmount Ave,1
+173,Brunswick & 6th,Glenwood Ave,10
+174,Brunswick & 6th,Grand St,15
+175,Brunswick & 6th,Grove St PATH,147
+176,Brunswick & 6th,Hamilton Park,62
+177,Brunswick & 6th,Harborside,6
+178,Brunswick & 6th,Heights Elevator,2
+179,Brunswick & 6th,Hilltop,1
+180,Brunswick & 6th,JC Medical Center,8
+181,Brunswick & 6th,Jersey & 3rd,38
+182,Brunswick & 6th,Jersey & 6th St,4
+183,Brunswick & 6th,Lafayette Park,2
+184,Brunswick & 6th,Liberty Light Rail,6
+185,Brunswick & 6th,Lincoln Park,2
+186,Brunswick & 6th,Manila & 1st,57
+187,Brunswick & 6th,Marin Light Rail,13
+188,Brunswick & 6th,McGinley Square,3
+189,Brunswick & 6th,Monmouth and 6th,13
+190,Brunswick & 6th,Montgomery St,4
+191,Brunswick & 6th,Morris Canal,15
+192,Brunswick & 6th,Newark Ave,43
+193,Brunswick & 6th,Newport PATH,6
+194,Brunswick & 6th,Newport Pkwy,20
+195,Brunswick & 6th,Paulus Hook,10
+196,Brunswick & 6th,Pershing Field,4
+197,Brunswick & 6th,Riverview Park,2
+198,Brunswick & 6th,Union St,1
+199,Brunswick & 6th,Van Vorst Park,13
+200,Brunswick & 6th,Warren St,9
+201,Brunswick & 6th,Washington St,24
+202,Brunswick & 6th,York St,2
+203,Brunswick St,Astor Place,3
+204,Brunswick St,Baldwin at Montgomery,5
+205,Brunswick St,Bergen Ave,1
+206,Brunswick St,Brunswick & 6th,4
+207,Brunswick St,Christ Hospital,2
+208,Brunswick St,City Hall,43
+209,Brunswick St,Columbus Dr at Exchange Pl,26
+210,Brunswick St,Columbus Drive,16
+211,Brunswick St,Communipaw & Berry Lane,19
+212,Brunswick St,Dixon Mills,2
+213,Brunswick St,Essex Light Rail,2
+214,Brunswick St,Fairmount Ave,1
+215,Brunswick St,Glenwood Ave,1
+216,Brunswick St,Grand St,15
+217,Brunswick St,Grove St PATH,179
+218,Brunswick St,Hamilton Park,37
+219,Brunswick St,Harborside,12
+220,Brunswick St,Heights Elevator,1
+221,Brunswick St,Hilltop,6
+222,Brunswick St,Hoboken Ave at Monmouth St,4
+223,Brunswick St,JC Medical Center,12
+224,Brunswick St,Jersey & 3rd,19
+225,Brunswick St,Jersey & 6th St,12
+226,Brunswick St,Lafayette Park,2
+227,Brunswick St,Leonard Gordon Park,2
+228,Brunswick St,Liberty Light Rail,12
+229,Brunswick St,Manila & 1st,18
+230,Brunswick St,Marin Light Rail,27
+231,Brunswick St,McGinley Square,2
+232,Brunswick St,Monmouth and 6th,4
+233,Brunswick St,Montgomery St,1
+234,Brunswick St,Morris Canal,10
+235,Brunswick St,Newark Ave,45
+236,Brunswick St,Newport PATH,12
+237,Brunswick St,Newport Pkwy,8
+238,Brunswick St,Oakland Ave,2
+239,Brunswick St,Paulus Hook,9
+240,Brunswick St,Pershing Field,11
+241,Brunswick St,Riverview Park,6
+242,Brunswick St,Sip Ave,6
+243,Brunswick St,Union St,1
+244,Brunswick St,Van Vorst Park,8
+245,Brunswick St,Warren St,15
+246,Brunswick St,Washington St,28
+247,Brunswick St,York St,11
+248,Christ Hospital,5 Corners Library,4
+249,Christ Hospital,Baldwin at Montgomery,1
+250,Christ Hospital,Bergen Ave,1
+251,Christ Hospital,Brunswick St,11
+252,Christ Hospital,City Hall,3
+253,Christ Hospital,Columbus Dr at Exchange Pl,3
+254,Christ Hospital,Dey St,5
+255,Christ Hospital,Dixon Mills,1
+256,Christ Hospital,Grand St,1
+257,Christ Hospital,Grove St PATH,7
+258,Christ Hospital,Hamilton Park,16
+259,Christ Hospital,Heights Elevator,8
+260,Christ Hospital,Hilltop,11
+261,Christ Hospital,Hoboken Ave at Monmouth St,12
+262,Christ Hospital,JC Medical Center,1
+263,Christ Hospital,Jersey & 6th St,2
+264,Christ Hospital,Journal Square,19
+265,Christ Hospital,Liberty Light Rail,1
+266,Christ Hospital,Manila & 1st,10
+267,Christ Hospital,Marin Light Rail,3
+268,Christ Hospital,McGinley Square,2
+269,Christ Hospital,Montgomery St,5
+270,Christ Hospital,Newark Ave,16
+271,Christ Hospital,Newport PATH,9
+272,Christ Hospital,Newport Pkwy,3
+273,Christ Hospital,Oakland Ave,7
+274,Christ Hospital,Pershing Field,13
+275,Christ Hospital,Riverview Park,9
+276,Christ Hospital,Sip Ave,15
+277,Christ Hospital,Van Vorst Park,6
+278,Christ Hospital,Washington St,9
+279,Christ Hospital,York St,1
+280,City Hall,5 Corners Library,2
+281,City Hall,6 Ave & Broome St,1
+282,City Hall,Astor Place,4
+283,City Hall,Baldwin at Montgomery,13
+284,City Hall,Bergen Ave,1
+285,City Hall,Brunswick & 6th,14
+286,City Hall,Brunswick St,30
+287,City Hall,Christ Hospital,1
+288,City Hall,Columbus Dr at Exchange Pl,13
+289,City Hall,Columbus Drive,19
+290,City Hall,Communipaw & Berry Lane,25
+291,City Hall,Dixon Mills,7
+292,City Hall,Essex Light Rail,14
+293,City Hall,Fairmount Ave,2
+294,City Hall,Grand St,28
+295,City Hall,Grove St PATH,46
+296,City Hall,Hamilton Park,51
+297,City Hall,Harborside,32
+298,City Hall,Heights Elevator,4
+299,City Hall,Hilltop,2
+300,City Hall,Hoboken Ave at Monmouth St,10
+301,City Hall,JC Medical Center,34
+302,City Hall,Jackson Square,1
+303,City Hall,Jersey & 3rd,13
+304,City Hall,Jersey & 6th St,15
+305,City Hall,Lafayette Park,41
+306,City Hall,Liberty Light Rail,86
+307,City Hall,Lincoln Park,4
+308,City Hall,Manila & 1st,4
+309,City Hall,Marin Light Rail,81
+310,City Hall,McGinley Square,5
+311,City Hall,Monmouth and 6th,4
+312,City Hall,Montgomery St,15
+313,City Hall,Morris Canal,30
+314,City Hall,Newark Ave,17
+315,City Hall,Newport PATH,28
+316,City Hall,Newport Pkwy,31
+317,City Hall,Paulus Hook,13
+318,City Hall,Riverview Park,3
+319,City Hall,Sip Ave,3
+320,City Hall,Union St,1
+321,City Hall,Van Vorst Park,21
+322,City Hall,Warren St,19
+323,City Hall,Washington St,17
+324,City Hall,York St,10
+325,Columbus Dr at Exchange Pl,5 Corners Library,2
+326,Columbus Dr at Exchange Pl,Baldwin at Montgomery,4
+327,Columbus Dr at Exchange Pl,Bergen Ave,1
+328,Columbus Dr at Exchange Pl,Brunswick & 6th,12
+329,Columbus Dr at Exchange Pl,Brunswick St,14
+330,Columbus Dr at Exchange Pl,City Hall,19
+331,Columbus Dr at Exchange Pl,Columbus Drive,18
+332,Columbus Dr at Exchange Pl,Communipaw & Berry Lane,3
+333,Columbus Dr at Exchange Pl,Dey St,1
+334,Columbus Dr at Exchange Pl,Dixon Mills,9
+335,Columbus Dr at Exchange Pl,Essex Light Rail,27
+336,Columbus Dr at Exchange Pl,Fairmount Ave,1
+337,Columbus Dr at Exchange Pl,Glenwood Ave,1
+338,Columbus Dr at Exchange Pl,Grand St,35
+339,Columbus Dr at Exchange Pl,Grove St PATH,26
+340,Columbus Dr at Exchange Pl,Hamilton Park,21
+341,Columbus Dr at Exchange Pl,Harborside,177
+342,Columbus Dr at Exchange Pl,Heights Elevator,3
+343,Columbus Dr at Exchange Pl,Hilltop,4
+344,Columbus Dr at Exchange Pl,Hoboken Ave at Monmouth St,5
+345,Columbus Dr at Exchange Pl,JC Medical Center,9
+346,Columbus Dr at Exchange Pl,Jersey & 3rd,9
+347,Columbus Dr at Exchange Pl,Jersey & 6th St,5
+348,Columbus Dr at Exchange Pl,Journal Square,2
+349,Columbus Dr at Exchange Pl,Lafayette Park,9
+350,Columbus Dr at Exchange Pl,Liberty Light Rail,44
+351,Columbus Dr at Exchange Pl,Lincoln Park,1
+352,Columbus Dr at Exchange Pl,Manila & 1st,8
+353,Columbus Dr at Exchange Pl,Marin Light Rail,53
+354,Columbus Dr at Exchange Pl,McGinley Square,1
+355,Columbus Dr at Exchange Pl,Monmouth and 6th,11
+356,Columbus Dr at Exchange Pl,Montgomery St,7
+357,Columbus Dr at Exchange Pl,Morris Canal,100
+358,Columbus Dr at Exchange Pl,Newark Ave,7
+359,Columbus Dr at Exchange Pl,Newport PATH,42
+360,Columbus Dr at Exchange Pl,Newport Pkwy,77
+361,Columbus Dr at Exchange Pl,Oakland Ave,1
+362,Columbus Dr at Exchange Pl,Paulus Hook,19
+363,Columbus Dr at Exchange Pl,Riverview Park,1
+364,Columbus Dr at Exchange Pl,Sip Ave,2
+365,Columbus Dr at Exchange Pl,Van Vorst Park,10
+366,Columbus Dr at Exchange Pl,Warren St,40
+367,Columbus Dr at Exchange Pl,Washington St,35
+368,Columbus Dr at Exchange Pl,York St,21
+369,Columbus Drive,5 Corners Library,3
+370,Columbus Drive,Baldwin at Montgomery,8
+371,Columbus Drive,Bergen Ave,2
+372,Columbus Drive,Brunswick & 6th,5
+373,Columbus Drive,Brunswick St,13
+374,Columbus Drive,City Hall,7
+375,Columbus Drive,Columbus Dr at Exchange Pl,15
+376,Columbus Drive,Communipaw & Berry Lane,4
+377,Columbus Drive,Dixon Mills,1
+378,Columbus Drive,Essex Light Rail,41
+379,Columbus Drive,Glenwood Ave,2
+380,Columbus Drive,Grand St,8
+381,Columbus Drive,Grove St PATH,19
+382,Columbus Drive,Hamilton Park,16
+383,Columbus Drive,Harborside,17
+384,Columbus Drive,Heights Elevator,4
+385,Columbus Drive,Hilltop,3
+386,Columbus Drive,Hoboken Ave at Monmouth St,5
+387,Columbus Drive,JC Medical Center,19
+388,Columbus Drive,Jackson Square,5
+389,Columbus Drive,Jersey & 3rd,6
+390,Columbus Drive,Jersey & 6th St,3
+391,Columbus Drive,Liberty Light Rail,7
+392,Columbus Drive,Manila & 1st,5
+393,Columbus Drive,Marin Light Rail,28
+394,Columbus Drive,McGinley Square,3
+395,Columbus Drive,Monmouth and 6th,5
+396,Columbus Drive,Montgomery St,13
+397,Columbus Drive,Morris Canal,13
+398,Columbus Drive,Newark Ave,11
+399,Columbus Drive,Newport PATH,45
+400,Columbus Drive,Newport Pkwy,129
+401,Columbus Drive,Paulus Hook,16
+402,Columbus Drive,Pershing Field,1
+403,Columbus Drive,Van Vorst Park,6
+404,Columbus Drive,Warren St,32
+405,Columbus Drive,Washington St,23
+406,Columbus Drive,York St,1
+407,Communipaw & Berry Lane,Astor Place,2
+408,Communipaw & Berry Lane,Baldwin at Montgomery,1
+409,Communipaw & Berry Lane,Bergen Ave,2
+410,Communipaw & Berry Lane,Brunswick St,14
+411,Communipaw & Berry Lane,City Hall,38
+412,Communipaw & Berry Lane,Columbus Dr at Exchange Pl,3
+413,Communipaw & Berry Lane,Columbus Drive,2
+414,Communipaw & Berry Lane,Essex Light Rail,19
+415,Communipaw & Berry Lane,Fairmount Ave,5
+416,Communipaw & Berry Lane,Glenwood Ave,1
+417,Communipaw & Berry Lane,Grand St,1
+418,Communipaw & Berry Lane,Grove St PATH,23
+419,Communipaw & Berry Lane,Hamilton Park,1
+420,Communipaw & Berry Lane,Hilltop,3
+421,Communipaw & Berry Lane,JC Medical Center,11
+422,Communipaw & Berry Lane,Jackson Square,1
+423,Communipaw & Berry Lane,Jersey & 3rd,1
+424,Communipaw & Berry Lane,Jersey & 6th St,1
+425,Communipaw & Berry Lane,Lafayette Park,14
+426,Communipaw & Berry Lane,Liberty Light Rail,20
+427,Communipaw & Berry Lane,Manila & 1st,3
+428,Communipaw & Berry Lane,Marin Light Rail,10
+429,Communipaw & Berry Lane,McGinley Square,4
+430,Communipaw & Berry Lane,Montgomery St,1
+431,Communipaw & Berry Lane,Morris Canal,4
+432,Communipaw & Berry Lane,Newark Ave,4
+433,Communipaw & Berry Lane,Newport PATH,2
+434,Communipaw & Berry Lane,Newport Pkwy,1
+435,Communipaw & Berry Lane,Paulus Hook,5
+436,Communipaw & Berry Lane,Pershing Field,1
+437,Communipaw & Berry Lane,Sip Ave,7
+438,Communipaw & Berry Lane,Van Vorst Park,5
+439,Communipaw & Berry Lane,Warren St,7
+440,Communipaw & Berry Lane,Washington St,2
+441,Communipaw & Berry Lane,York St,1
+442,Dey St,5 Corners Library,7
+443,Dey St,Brunswick St,2
+444,Dey St,Christ Hospital,3
+445,Dey St,City Hall,1
+446,Dey St,Columbus Dr at Exchange Pl,1
+447,Dey St,Fairmount Ave,5
+448,Dey St,Glenwood Ave,2
+449,Dey St,Grove St PATH,3
+450,Dey St,Hamilton Park,2
+451,Dey St,Hilltop,1
+452,Dey St,Hoboken Ave at Monmouth St,3
+453,Dey St,Jackson Square,1
+454,Dey St,Journal Square,60
+455,Dey St,Liberty Light Rail,1
+456,Dey St,Lincoln Park,7
+457,Dey St,McGinley Square,10
+458,Dey St,Newark Ave,2
+459,Dey St,Newport Pkwy,2
+460,Dey St,Oakland Ave,1
+461,Dey St,Paulus Hook,1
+462,Dey St,Pershing Field,3
+463,Dey St,Riverview Park,1
+464,Dey St,Sip Ave,15
+465,Dey St,Union St,1
+466,Dey St,Washington St,1
+467,Dixon Mills,5 Corners Library,1
+468,Dixon Mills,Baldwin at Montgomery,3
+469,Dixon Mills,Bergen Ave,1
+470,Dixon Mills,Brunswick & 6th,4
+471,Dixon Mills,Brunswick St,7
+472,Dixon Mills,Christ Hospital,2
+473,Dixon Mills,City Hall,10
+474,Dixon Mills,Columbus Dr at Exchange Pl,19
+475,Dixon Mills,Columbus Drive,4
+476,Dixon Mills,Communipaw & Berry Lane,1
+477,Dixon Mills,Essex Light Rail,3
+478,Dixon Mills,Fairmount Ave,2
+479,Dixon Mills,Grand St,9
+480,Dixon Mills,Grove St PATH,144
+481,Dixon Mills,Hamilton Park,8
+482,Dixon Mills,Harborside,25
+483,Dixon Mills,Heights Elevator,1
+484,Dixon Mills,Hoboken Ave at Monmouth St,1
+485,Dixon Mills,JC Medical Center,8
+486,Dixon Mills,Jersey & 3rd,12
+487,Dixon Mills,Jersey & 6th St,2
+488,Dixon Mills,Journal Square,1
+489,Dixon Mills,Lafayette Park,3
+490,Dixon Mills,Liberty Light Rail,9
+491,Dixon Mills,Lincoln Park,3
+492,Dixon Mills,Manila & 1st,12
+493,Dixon Mills,Marin Light Rail,3
+494,Dixon Mills,McGinley Square,5
+495,Dixon Mills,Monmouth and 6th,2
+496,Dixon Mills,Montgomery St,5
+497,Dixon Mills,Morris Canal,3
+498,Dixon Mills,Newark Ave,8
+499,Dixon Mills,Newport PATH,6
+500,Dixon Mills,Newport Pkwy,2
+501,Dixon Mills,Paulus Hook,4
+502,Dixon Mills,Sip Ave,1
+503,Dixon Mills,Van Vorst Park,2
+504,Dixon Mills,Warren St,9
+505,Dixon Mills,Washington St,4
+506,Dixon Mills,York St,3
+507,Essex Light Rail,Astor Place,1
+508,Essex Light Rail,Bergen Ave,2
+509,Essex Light Rail,Brunswick & 6th,1
+510,Essex Light Rail,Brunswick St,4
+511,Essex Light Rail,Christ Hospital,1
+512,Essex Light Rail,City Hall,27
+513,Essex Light Rail,Columbus Dr at Exchange Pl,32
+514,Essex Light Rail,Columbus Drive,37
+515,Essex Light Rail,Communipaw & Berry Lane,22
+516,Essex Light Rail,Dixon Mills,1
+517,Essex Light Rail,Grand St,5
+518,Essex Light Rail,Grove St PATH,39
+519,Essex Light Rail,Hamilton Park,1
+520,Essex Light Rail,Harborside,12
+521,Essex Light Rail,Heights Elevator,5
+522,Essex Light Rail,Hilltop,1
+523,Essex Light Rail,JC Medical Center,26
+524,Essex Light Rail,Jersey & 3rd,1
+525,Essex Light Rail,Jersey & 6th St,2
+526,Essex Light Rail,Journal Square,21
+527,Essex Light Rail,Lafayette Park,1
+528,Essex Light Rail,Liberty Light Rail,10
+529,Essex Light Rail,Lincoln Park,1
+530,Essex Light Rail,Manila & 1st,1
+531,Essex Light Rail,Marin Light Rail,23
+532,Essex Light Rail,Monmouth and 6th,3
+533,Essex Light Rail,Montgomery St,2
+534,Essex Light Rail,Morris Canal,19
+535,Essex Light Rail,Newark Ave,8
+536,Essex Light Rail,Newport PATH,13
+537,Essex Light Rail,Newport Pkwy,16
+538,Essex Light Rail,Paulus Hook,5
+539,Essex Light Rail,Van Vorst Park,7
+540,Essex Light Rail,Warren St,16
+541,Essex Light Rail,Washington St,15
+542,Essex Light Rail,York St,10
+543,Fairmount Ave,Astor Place,25
+544,Fairmount Ave,Baldwin at Montgomery,1
+545,Fairmount Ave,Bergen Ave,3
+546,Fairmount Ave,Brunswick St,5
+547,Fairmount Ave,City Hall,4
+548,Fairmount Ave,Columbus Dr at Exchange Pl,2
+549,Fairmount Ave,Columbus Drive,3
+550,Fairmount Ave,Communipaw & Berry Lane,7
+551,Fairmount Ave,Dixon Mills,2
+552,Fairmount Ave,Essex Light Rail,1
+553,Fairmount Ave,Glenwood Ave,19
+554,Fairmount Ave,Grand St,2
+555,Fairmount Ave,Grove St PATH,23
+556,Fairmount Ave,Hamilton Park,6
+557,Fairmount Ave,Harborside,27
+558,Fairmount Ave,Heights Elevator,1
+559,Fairmount Ave,Hilltop,5
+560,Fairmount Ave,Hoboken Ave at Monmouth St,5
+561,Fairmount Ave,JC Medical Center,1
+562,Fairmount Ave,Jackson Square,2
+563,Fairmount Ave,Journal Square,13
+564,Fairmount Ave,Liberty Light Rail,10
+565,Fairmount Ave,Lincoln Park,6
+566,Fairmount Ave,Marin Light Rail,40
+567,Fairmount Ave,McGinley Square,7
+568,Fairmount Ave,Monmouth and 6th,1
+569,Fairmount Ave,Morris Canal,1
+570,Fairmount Ave,Newark Ave,10
+571,Fairmount Ave,Newport PATH,6
+572,Fairmount Ave,Newport Pkwy,2
+573,Fairmount Ave,Paulus Hook,2
+574,Fairmount Ave,Pershing Field,4
+575,Fairmount Ave,Riverview Park,2
+576,Fairmount Ave,Sip Ave,272
+577,Fairmount Ave,Union St,2
+578,Fairmount Ave,Van Vorst Park,4
+579,Fairmount Ave,Warren St,4
+580,Fairmount Ave,Washington St,2
+581,Fairmount Ave,York St,4
+582,Glenwood Ave,5 Corners Library,1
+583,Glenwood Ave,Astor Place,2
+584,Glenwood Ave,Baldwin at Montgomery,2
+585,Glenwood Ave,Bergen Ave,2
+586,Glenwood Ave,Brunswick & 6th,3
+587,Glenwood Ave,Brunswick St,1
+588,Glenwood Ave,City Hall,4
+589,Glenwood Ave,Communipaw & Berry Lane,1
+590,Glenwood Ave,Dixon Mills,1
+591,Glenwood Ave,Fairmount Ave,8
+592,Glenwood Ave,Grand St,2
+593,Glenwood Ave,Grove St PATH,5
+594,Glenwood Ave,Hamilton Park,21
+595,Glenwood Ave,Harborside,4
+596,Glenwood Ave,Heights Elevator,1
+597,Glenwood Ave,Hilltop,1
+598,Glenwood Ave,JC Medical Center,3
+599,Glenwood Ave,Jackson Square,1
+600,Glenwood Ave,Jersey & 3rd,3
+601,Glenwood Ave,Jersey & 6th St,7
+602,Glenwood Ave,Journal Square,2
+603,Glenwood Ave,Lafayette Park,2
+604,Glenwood Ave,Liberty Light Rail,5
+605,Glenwood Ave,Lincoln Park,15
+606,Glenwood Ave,Manila & 1st,4
+607,Glenwood Ave,Marin Light Rail,12
+608,Glenwood Ave,McGinley Square,5
+609,Glenwood Ave,Monmouth and 6th,6
+610,Glenwood Ave,Montgomery St,1
+611,Glenwood Ave,Morris Canal,1
+612,Glenwood Ave,Newark Ave,1
+613,Glenwood Ave,Newport PATH,4
+614,Glenwood Ave,Newport Pkwy,4
+615,Glenwood Ave,Paulus Hook,2
+616,Glenwood Ave,Pershing Field,4
+617,Glenwood Ave,Riverview Park,1
+618,Glenwood Ave,Sip Ave,84
+619,Glenwood Ave,Union St,2
+620,Glenwood Ave,Van Vorst Park,6
+621,Glenwood Ave,Warren St,3
+622,Glenwood Ave,Washington St,1
+623,Glenwood Ave,York St,1
+624,Grand St,5 Corners Library,1
+625,Grand St,Baldwin at Montgomery,1
+626,Grand St,Bergen Ave,2
+627,Grand St,Brunswick & 6th,14
+628,Grand St,Brunswick St,13
+629,Grand St,City Hall,19
+630,Grand St,Columbus Dr at Exchange Pl,37
+631,Grand St,Columbus Drive,31
+632,Grand St,Communipaw & Berry Lane,1
+633,Grand St,Dixon Mills,10
+634,Grand St,Essex Light Rail,6
+635,Grand St,Fairmount Ave,4
+636,Grand St,Glenwood Ave,2
+637,Grand St,Grove St PATH,68
+638,Grand St,Hamilton Park,40
+639,Grand St,Harborside,8
+640,Grand St,Heights Elevator,1
+641,Grand St,Hilltop,1
+642,Grand St,Hoboken Ave at Monmouth St,3
+643,Grand St,JC Medical Center,21
+644,Grand St,Jackson Square,2
+645,Grand St,Jersey & 3rd,8
+646,Grand St,Jersey & 6th St,5
+647,Grand St,Lafayette Park,3
+648,Grand St,Liberty Light Rail,24
+649,Grand St,Lincoln Park,2
+650,Grand St,Manila & 1st,9
+651,Grand St,Marin Light Rail,30
+652,Grand St,McGinley Square,5
+653,Grand St,Monmouth and 6th,3
+654,Grand St,Montgomery St,8
+655,Grand St,Morris Canal,29
+656,Grand St,Newark Ave,20
+657,Grand St,Newport PATH,58
+658,Grand St,Newport Pkwy,59
+659,Grand St,Paulus Hook,10
+660,Grand St,Sip Ave,1
+661,Grand St,Van Vorst Park,26
+662,Grand St,Warren St,23
+663,Grand St,Washington St,12
+664,Grand St,York St,5
+665,Grove St PATH,5 Corners Library,6
+666,Grove St PATH,Astor Place,9
+667,Grove St PATH,Baldwin at Montgomery,69
+668,Grove St PATH,Bergen Ave,2
+669,Grove St PATH,Brunswick & 6th,128
+670,Grove St PATH,Brunswick St,115
+671,Grove St PATH,Christ Hospital,2
+672,Grove St PATH,City Hall,65
+673,Grove St PATH,Columbus Dr at Exchange Pl,14
+674,Grove St PATH,Columbus Drive,11
+675,Grove St PATH,Communipaw & Berry Lane,41
+676,Grove St PATH,Dixon Mills,134
+677,Grove St PATH,Essex Light Rail,31
+678,Grove St PATH,Glenwood Ave,3
+679,Grove St PATH,Grand St,30
+680,Grove St PATH,Hamilton Park,162
+681,Grove St PATH,Harborside,31
+682,Grove St PATH,Heights Elevator,4
+683,Grove St PATH,Hilltop,5
+684,Grove St PATH,Hoboken Ave at Monmouth St,7
+685,Grove St PATH,JC Medical Center,133
+686,Grove St PATH,Jackson Square,3
+687,Grove St PATH,Jersey & 3rd,53
+688,Grove St PATH,Jersey & 6th St,141
+689,Grove St PATH,Lafayette Park,114
+690,Grove St PATH,Liberty Light Rail,152
+691,Grove St PATH,Lincoln Park,1
+692,Grove St PATH,Manila & 1st,3
+693,Grove St PATH,Marin Light Rail,196
+694,Grove St PATH,McGinley Square,19
+695,Grove St PATH,Monmouth and 6th,82
+696,Grove St PATH,Montgomery St,77
+697,Grove St PATH,Morris Canal,98
+698,Grove St PATH,Newark Ave,21
+699,Grove St PATH,Newport PATH,21
+700,Grove St PATH,Newport Pkwy,38
+701,Grove St PATH,Oakland Ave,4
+702,Grove St PATH,Paulus Hook,18
+703,Grove St PATH,Pershing Field,1
+704,Grove St PATH,Riverview Park,1
+705,Grove St PATH,Sip Ave,6
+706,Grove St PATH,Van Vorst Park,98
+707,Grove St PATH,Warren St,38
+708,Grove St PATH,Washington St,16
+709,Grove St PATH,York St,28
+710,Hamilton Park,5 Corners Library,3
+711,Hamilton Park,Astor Place,1
+712,Hamilton Park,Baldwin at Montgomery,2
+713,Hamilton Park,Brunswick & 6th,56
+714,Hamilton Park,Brunswick St,36
+715,Hamilton Park,Christ Hospital,5
+716,Hamilton Park,City Hall,36
+717,Hamilton Park,Columbus Dr at Exchange Pl,37
+718,Hamilton Park,Columbus Drive,19
+719,Hamilton Park,Communipaw & Berry Lane,1
+720,Hamilton Park,Dey St,1
+721,Hamilton Park,Dixon Mills,7
+722,Hamilton Park,Essex Light Rail,5
+723,Hamilton Park,Fairmount Ave,2
+724,Hamilton Park,Glenwood Ave,28
+725,Hamilton Park,Grand St,29
+726,Hamilton Park,Grove St PATH,181
+727,Hamilton Park,Harborside,19
+728,Hamilton Park,Heights Elevator,2
+729,Hamilton Park,Hilltop,14
+730,Hamilton Park,Hoboken Ave at Monmouth St,19
+731,Hamilton Park,JC Medical Center,49
+732,Hamilton Park,Jersey & 3rd,72
+733,Hamilton Park,Jersey & 6th St,14
+734,Hamilton Park,Lafayette Park,3
+735,Hamilton Park,Leonard Gordon Park,1
+736,Hamilton Park,Liberty Light Rail,9
+737,Hamilton Park,Lincoln Park,2
+738,Hamilton Park,Manila & 1st,115
+739,Hamilton Park,Marin Light Rail,24
+740,Hamilton Park,McGinley Square,1
+741,Hamilton Park,Monmouth and 6th,8
+742,Hamilton Park,Montgomery St,27
+743,Hamilton Park,Morris Canal,20
+744,Hamilton Park,Newark Ave,62
+745,Hamilton Park,Newport PATH,117
+746,Hamilton Park,Newport Pkwy,49
+747,Hamilton Park,Oakland Ave,2
+748,Hamilton Park,Paulus Hook,90
+749,Hamilton Park,Pershing Field,12
+750,Hamilton Park,Riverview Park,4
+751,Hamilton Park,Sip Ave,2
+752,Hamilton Park,Van Vorst Park,33
+753,Hamilton Park,Warren St,54
+754,Hamilton Park,Washington St,40
+755,Hamilton Park,York St,14
+756,Harborside,5 Corners Library,3
+757,Harborside,Astor Place,2
+758,Harborside,Brunswick & 6th,4
+759,Harborside,Brunswick St,13
+760,Harborside,Cabrini Blvd & W 177 St,1
+761,Harborside,Christ Hospital,1
+762,Harborside,City Hall,28
+763,Harborside,Columbus Dr at Exchange Pl,161
+764,Harborside,Columbus Drive,17
+765,Harborside,Dixon Mills,33
+766,Harborside,Essex Light Rail,10
+767,Harborside,Fairmount Ave,16
+768,Harborside,Glenwood Ave,1
+769,Harborside,Grand St,19
+770,Harborside,Grove St PATH,60
+771,Harborside,Hamilton Park,22
+772,Harborside,Heights Elevator,5
+773,Harborside,Hilltop,2
+774,Harborside,Hoboken Ave at Monmouth St,3
+775,Harborside,JC Medical Center,26
+776,Harborside,Jersey & 3rd,12
+777,Harborside,Jersey & 6th St,5
+778,Harborside,Lafayette Park,1
+779,Harborside,Liberty Light Rail,28
+780,Harborside,Lincoln Park,1
+781,Harborside,Manila & 1st,8
+782,Harborside,Marin Light Rail,38
+783,Harborside,McGinley Square,29
+784,Harborside,Monmouth and 6th,3
+785,Harborside,Montgomery St,19
+786,Harborside,Morris Canal,33
+787,Harborside,Newark Ave,19
+788,Harborside,Newport PATH,147
+789,Harborside,Newport Pkwy,82
+790,Harborside,Paulus Hook,59
+791,Harborside,Pershing Field,1
+792,Harborside,Riverview Park,13
+793,Harborside,Sip Ave,1
+794,Harborside,Union St,1
+795,Harborside,Van Vorst Park,13
+796,Harborside,Warren St,20
+797,Harborside,Washington St,25
+798,Harborside,York St,3
+799,Heights Elevator,5 Corners Library,2
+800,Heights Elevator,Brunswick & 6th,1
+801,Heights Elevator,Brunswick St,4
+802,Heights Elevator,Christ Hospital,9
+803,Heights Elevator,Columbus Dr at Exchange Pl,1
+804,Heights Elevator,Columbus Drive,1
+805,Heights Elevator,Dey St,3
+806,Heights Elevator,Grand St,2
+807,Heights Elevator,Grove St PATH,3
+808,Heights Elevator,Hamilton Park,5
+809,Heights Elevator,Harborside,3
+810,Heights Elevator,Hilltop,6
+811,Heights Elevator,Hoboken Ave at Monmouth St,6
+812,Heights Elevator,JC Medical Center,10
+813,Heights Elevator,Jersey & 3rd,4
+814,Heights Elevator,Jersey & 6th St,5
+815,Heights Elevator,Journal Square,4
+816,Heights Elevator,Lafayette Park,1
+817,Heights Elevator,Leonard Gordon Park,6
+818,Heights Elevator,Liberty Light Rail,4
+819,Heights Elevator,Manila & 1st,2
+820,Heights Elevator,Marin Light Rail,1
+821,Heights Elevator,McGinley Square,9
+822,Heights Elevator,Monmouth and 6th,4
+823,Heights Elevator,Montgomery St,1
+824,Heights Elevator,Newark Ave,13
+825,Heights Elevator,Newport PATH,19
+826,Heights Elevator,Newport Pkwy,29
+827,Heights Elevator,Oakland Ave,5
+828,Heights Elevator,Paulus Hook,2
+829,Heights Elevator,Pershing Field,10
+830,Heights Elevator,Riverview Park,23
+831,Heights Elevator,Sip Ave,14
+832,Heights Elevator,Union St,2
+833,Heights Elevator,Van Vorst Park,1
+834,Heights Elevator,Warren St,5
+835,Heights Elevator,Washington St,5
+836,Heights Elevator,York St,1
+837,Hilltop,5 Corners Library,1
+838,Hilltop,Astor Place,7
+839,Hilltop,Baldwin at Montgomery,7
+840,Hilltop,Bergen Ave,1
+841,Hilltop,Brunswick & 6th,2
+842,Hilltop,Brunswick St,7
+843,Hilltop,Christ Hospital,6
+844,Hilltop,City Hall,3
+845,Hilltop,Columbus Dr at Exchange Pl,3
+846,Hilltop,Columbus Drive,19
+847,Hilltop,Communipaw & Berry Lane,1
+848,Hilltop,Dey St,1
+849,Hilltop,Dixon Mills,2
+850,Hilltop,Essex Light Rail,4
+851,Hilltop,Fairmount Ave,3
+852,Hilltop,Glenwood Ave,3
+853,Hilltop,Grand St,4
+854,Hilltop,Grove St PATH,9
+855,Hilltop,Hamilton Park,24
+856,Hilltop,Harborside,1
+857,Hilltop,Heights Elevator,1
+858,Hilltop,Hoboken Ave at Monmouth St,4
+859,Hilltop,JC Medical Center,7
+860,Hilltop,Jackson Square,2
+861,Hilltop,Jersey & 3rd,3
+862,Hilltop,Jersey & 6th St,8
+863,Hilltop,Journal Square,8
+864,Hilltop,Leonard Gordon Park,1
+865,Hilltop,Liberty Light Rail,8
+866,Hilltop,Lincoln Park,4
+867,Hilltop,Manila & 1st,3
+868,Hilltop,Marin Light Rail,2
+869,Hilltop,McGinley Square,8
+870,Hilltop,Monmouth and 6th,1
+871,Hilltop,Montgomery St,5
+872,Hilltop,Morris Canal,2
+873,Hilltop,Newark Ave,19
+874,Hilltop,Newport PATH,22
+875,Hilltop,Newport Pkwy,12
+876,Hilltop,Oakland Ave,7
+877,Hilltop,Pershing Field,7
+878,Hilltop,Riverview Park,5
+879,Hilltop,Sip Ave,7
+880,Hilltop,Union St,2
+881,Hilltop,Van Vorst Park,5
+882,Hilltop,Warren St,12
+883,Hilltop,Washington St,6
+884,Hilltop,York St,2
+885,Hoboken Ave at Monmouth St,Baldwin at Montgomery,4
+886,Hoboken Ave at Monmouth St,Brunswick & 6th,3
+887,Hoboken Ave at Monmouth St,Brunswick St,5
+888,Hoboken Ave at Monmouth St,Christ Hospital,4
+889,Hoboken Ave at Monmouth St,City Hall,11
+890,Hoboken Ave at Monmouth St,Columbus Dr at Exchange Pl,5
+891,Hoboken Ave at Monmouth St,Columbus Drive,3
+892,Hoboken Ave at Monmouth St,Dixon Mills,4
+893,Hoboken Ave at Monmouth St,Essex Light Rail,1
+894,Hoboken Ave at Monmouth St,Glenwood Ave,10
+895,Hoboken Ave at Monmouth St,Grand St,1
+896,Hoboken Ave at Monmouth St,Grove St PATH,18
+897,Hoboken Ave at Monmouth St,Hamilton Park,20
+898,Hoboken Ave at Monmouth St,Harborside,2
+899,Hoboken Ave at Monmouth St,Heights Elevator,4
+900,Hoboken Ave at Monmouth St,Hilltop,3
+901,Hoboken Ave at Monmouth St,JC Medical Center,2
+902,Hoboken Ave at Monmouth St,Jackson Square,1
+903,Hoboken Ave at Monmouth St,Jersey & 3rd,1
+904,Hoboken Ave at Monmouth St,Liberty Light Rail,4
+905,Hoboken Ave at Monmouth St,Lincoln Park,7
+906,Hoboken Ave at Monmouth St,Manila & 1st,8
+907,Hoboken Ave at Monmouth St,Marin Light Rail,7
+908,Hoboken Ave at Monmouth St,McGinley Square,3
+909,Hoboken Ave at Monmouth St,Monmouth and 6th,3
+910,Hoboken Ave at Monmouth St,Montgomery St,1
+911,Hoboken Ave at Monmouth St,Morris Canal,5
+912,Hoboken Ave at Monmouth St,Newark Ave,7
+913,Hoboken Ave at Monmouth St,Newport PATH,39
+914,Hoboken Ave at Monmouth St,Newport Pkwy,16
+915,Hoboken Ave at Monmouth St,Oakland Ave,25
+916,Hoboken Ave at Monmouth St,Paulus Hook,2
+917,Hoboken Ave at Monmouth St,Pershing Field,4
+918,Hoboken Ave at Monmouth St,Riverview Park,1
+919,Hoboken Ave at Monmouth St,Van Vorst Park,5
+920,Hoboken Ave at Monmouth St,Warren St,10
+921,Hoboken Ave at Monmouth St,Washington St,4
+922,Hoboken Ave at Monmouth St,York St,1
+923,JC Medical Center,Baldwin at Montgomery,6
+924,JC Medical Center,Brunswick & 6th,9
+925,JC Medical Center,Brunswick St,15
+926,JC Medical Center,City Hall,79
+927,JC Medical Center,Columbus Dr at Exchange Pl,17
+928,JC Medical Center,Columbus Drive,8
+929,JC Medical Center,Communipaw & Berry Lane,13
+930,JC Medical Center,Dixon Mills,9
+931,JC Medical Center,Essex Light Rail,19
+932,JC Medical Center,Grand St,22
+933,JC Medical Center,Grove St PATH,91
+934,JC Medical Center,Hamilton Park,40
+935,JC Medical Center,Harborside,23
+936,JC Medical Center,Heights Elevator,9
+937,JC Medical Center,Hilltop,1
+938,JC Medical Center,Hoboken Ave at Monmouth St,2
+939,JC Medical Center,Jackson Square,3
+940,JC Medical Center,Jersey & 3rd,21
+941,JC Medical Center,Jersey & 6th St,15
+942,JC Medical Center,Lafayette Park,11
+943,JC Medical Center,Liberty Light Rail,48
+944,JC Medical Center,Manila & 1st,20
+945,JC Medical Center,Marin Light Rail,94
+946,JC Medical Center,McGinley Square,2
+947,JC Medical Center,Monmouth and 6th,18
+948,JC Medical Center,Montgomery St,15
+949,JC Medical Center,Morris Canal,13
+950,JC Medical Center,Newark Ave,33
+951,JC Medical Center,Newport PATH,59
+952,JC Medical Center,Newport Pkwy,33
+953,JC Medical Center,Paulus Hook,22
+954,JC Medical Center,Sip Ave,1
+955,JC Medical Center,Union St,2
+956,JC Medical Center,Van Vorst Park,24
+957,JC Medical Center,Warren St,48
+958,JC Medical Center,Washington St,10
+959,JC Medical Center,York St,5
+960,Jackson Square,Astor Place,15
+961,Jackson Square,Baldwin at Montgomery,5
+962,Jackson Square,Bergen Ave,4
+963,Jackson Square,Brunswick St,1
+964,Jackson Square,City Hall,1
+965,Jackson Square,Columbus Dr at Exchange Pl,1
+966,Jackson Square,Columbus Drive,10
+967,Jackson Square,Communipaw & Berry Lane,5
+968,Jackson Square,Dey St,3
+969,Jackson Square,Grand St,1
+970,Jackson Square,Grove St PATH,2
+971,Jackson Square,Hamilton Park,1
+972,Jackson Square,Heights Elevator,1
+973,Jackson Square,Hilltop,1
+974,Jackson Square,Hoboken Ave at Monmouth St,1
+975,Jackson Square,JC Medical Center,9
+976,Jackson Square,Jersey & 3rd,2
+977,Jackson Square,Lafayette Park,6
+978,Jackson Square,Lincoln Park,1
+979,Jackson Square,Manila & 1st,2
+980,Jackson Square,McGinley Square,1
+981,Jackson Square,Montgomery St,1
+982,Jackson Square,Newark Ave,8
+983,Jackson Square,Newport Pkwy,1
+984,Jackson Square,Paulus Hook,14
+985,Jackson Square,Sip Ave,2
+986,Jackson Square,Union St,2
+987,Jackson Square,Van Vorst Park,2
+988,Jackson Square,Warren St,5
+989,Jersey & 3rd,Baldwin at Montgomery,1
+990,Jersey & 3rd,Brunswick & 6th,52
+991,Jersey & 3rd,Brunswick St,29
+992,Jersey & 3rd,Christ Hospital,1
+993,Jersey & 3rd,City Hall,19
+994,Jersey & 3rd,Columbus Dr at Exchange Pl,10
+995,Jersey & 3rd,Columbus Drive,6
+996,Jersey & 3rd,Dixon Mills,7
+997,Jersey & 3rd,Essex Light Rail,4
+998,Jersey & 3rd,Grand St,5
+999,Jersey & 3rd,Grove St PATH,31
+1000,Jersey & 3rd,Hamilton Park,92
+1001,Jersey & 3rd,Harborside,20
+1002,Jersey & 3rd,Hilltop,5
+1003,Jersey & 3rd,Hoboken Ave at Monmouth St,2
+1004,Jersey & 3rd,JC Medical Center,32
+1005,Jersey & 3rd,Jersey & 6th St,46
+1006,Jersey & 3rd,Lafayette Park,2
+1007,Jersey & 3rd,Liberty Light Rail,13
+1008,Jersey & 3rd,Manila & 1st,20
+1009,Jersey & 3rd,Marin Light Rail,8
+1010,Jersey & 3rd,Monmouth and 6th,28
+1011,Jersey & 3rd,Montgomery St,2
+1012,Jersey & 3rd,Morris Canal,1
+1013,Jersey & 3rd,Newark Ave,10
+1014,Jersey & 3rd,Newport PATH,23
+1015,Jersey & 3rd,Newport Pkwy,6
+1016,Jersey & 3rd,Paulus Hook,2
+1017,Jersey & 3rd,Pershing Field,1
+1018,Jersey & 3rd,Riverview Park,2
+1019,Jersey & 3rd,Sip Ave,2
+1020,Jersey & 3rd,Van Vorst Park,14
+1021,Jersey & 3rd,Warren St,16
+1022,Jersey & 3rd,Washington St,19
+1023,Jersey & 3rd,York St,2
+1024,Jersey & 6th St,Astor Place,1
+1025,Jersey & 6th St,Brunswick & 6th,8
+1026,Jersey & 6th St,Brunswick St,8
+1027,Jersey & 6th St,Christ Hospital,2
+1028,Jersey & 6th St,City Hall,25
+1029,Jersey & 6th St,Columbus Dr at Exchange Pl,12
+1030,Jersey & 6th St,Columbus Drive,5
+1031,Jersey & 6th St,Communipaw & Berry Lane,4
+1032,Jersey & 6th St,Dixon Mills,2
+1033,Jersey & 6th St,Essex Light Rail,3
+1034,Jersey & 6th St,Fairmount Ave,1
+1035,Jersey & 6th St,Glenwood Ave,6
+1036,Jersey & 6th St,Grand St,15
+1037,Jersey & 6th St,Grove St PATH,125
+1038,Jersey & 6th St,Hamilton Park,17
+1039,Jersey & 6th St,Harborside,5
+1040,Jersey & 6th St,Hilltop,4
+1041,Jersey & 6th St,Hoboken Ave at Monmouth St,1
+1042,Jersey & 6th St,JC Medical Center,38
+1043,Jersey & 6th St,Jersey & 3rd,41
+1044,Jersey & 6th St,Journal Square,1
+1045,Jersey & 6th St,Liberty Light Rail,6
+1046,Jersey & 6th St,Manila & 1st,49
+1047,Jersey & 6th St,Marin Light Rail,1
+1048,Jersey & 6th St,Monmouth and 6th,6
+1049,Jersey & 6th St,Montgomery St,2
+1050,Jersey & 6th St,Morris Canal,3
+1051,Jersey & 6th St,Newark Ave,26
+1052,Jersey & 6th St,Newport PATH,40
+1053,Jersey & 6th St,Newport Pkwy,15
+1054,Jersey & 6th St,Paulus Hook,15
+1055,Jersey & 6th St,Pershing Field,2
+1056,Jersey & 6th St,Riverview Park,1
+1057,Jersey & 6th St,Van Vorst Park,17
+1058,Jersey & 6th St,Warren St,13
+1059,Jersey & 6th St,Washington St,4
+1060,Jersey & 6th St,York St,1
+1061,Journal Square,5 Corners Library,4
+1062,Journal Square,Astor Place,15
+1063,Journal Square,Baldwin at Montgomery,19
+1064,Journal Square,Bergen Ave,4
+1065,Journal Square,Brunswick & 6th,2
+1066,Journal Square,Brunswick St,5
+1067,Journal Square,Christ Hospital,3
+1068,Journal Square,Columbus Dr at Exchange Pl,4
+1069,Journal Square,Dey St,102
+1070,Journal Square,Dixon Mills,1
+1071,Journal Square,Essex Light Rail,1
+1072,Journal Square,Fairmount Ave,10
+1073,Journal Square,Glenwood Ave,4
+1074,Journal Square,Hamilton Park,5
+1075,Journal Square,Harborside,1
+1076,Journal Square,Heights Elevator,4
+1077,Journal Square,Hilltop,9
+1078,Journal Square,Hoboken Ave at Monmouth St,1
+1079,Journal Square,JC Medical Center,1
+1080,Journal Square,Jackson Square,1
+1081,Journal Square,Jersey & 6th St,1
+1082,Journal Square,Leonard Gordon Park,18
+1083,Journal Square,Liberty Light Rail,6
+1084,Journal Square,Lincoln Park,8
+1085,Journal Square,McGinley Square,17
+1086,Journal Square,Monmouth and 6th,2
+1087,Journal Square,Montgomery St,6
+1088,Journal Square,Morris Canal,1
+1089,Journal Square,Newark Ave,2
+1090,Journal Square,Newport PATH,9
+1091,Journal Square,Newport Pkwy,22
+1092,Journal Square,Oakland Ave,35
+1093,Journal Square,Paulus Hook,3
+1094,Journal Square,Pershing Field,30
+1095,Journal Square,Riverview Park,3
+1096,Journal Square,Sip Ave,18
+1097,Journal Square,Union St,3
+1098,Journal Square,Van Vorst Park,4
+1099,Journal Square,Warren St,1
+1100,Journal Square,Washington St,3
+1101,Lafayette Park,Astor Place,1
+1102,Lafayette Park,Brunswick & 6th,3
+1103,Lafayette Park,Brunswick St,3
+1104,Lafayette Park,City Hall,47
+1105,Lafayette Park,Columbus Dr at Exchange Pl,4
+1106,Lafayette Park,Columbus Drive,1
+1107,Lafayette Park,Communipaw & Berry Lane,17
+1108,Lafayette Park,Dey St,1
+1109,Lafayette Park,Dixon Mills,2
+1110,Lafayette Park,Glenwood Ave,1
+1111,Lafayette Park,Grand St,3
+1112,Lafayette Park,Grove St PATH,103
+1113,Lafayette Park,Hamilton Park,4
+1114,Lafayette Park,Harborside,2
+1115,Lafayette Park,JC Medical Center,8
+1116,Lafayette Park,Jackson Square,4
+1117,Lafayette Park,Jersey & 3rd,1
+1118,Lafayette Park,Jersey & 6th St,1
+1119,Lafayette Park,Liberty Light Rail,42
+1120,Lafayette Park,Manila & 1st,5
+1121,Lafayette Park,Marin Light Rail,18
+1122,Lafayette Park,Monmouth and 6th,4
+1123,Lafayette Park,Montgomery St,28
+1124,Lafayette Park,Morris Canal,2
+1125,Lafayette Park,Newark Ave,4
+1126,Lafayette Park,Newport PATH,2
+1127,Lafayette Park,Paulus Hook,10
+1128,Lafayette Park,Pershing Square North,2
+1129,Lafayette Park,Riverview Park,2
+1130,Lafayette Park,Sip Ave,1
+1131,Lafayette Park,Van Vorst Park,21
+1132,Lafayette Park,Warren St,3
+1133,Lafayette Park,Washington St,1
+1134,Leonard Gordon Park,5 Corners Library,5
+1135,Leonard Gordon Park,Astor Place,2
+1136,Leonard Gordon Park,Bergen Ave,1
+1137,Leonard Gordon Park,Brunswick & 6th,1
+1138,Leonard Gordon Park,Brunswick St,5
+1139,Leonard Gordon Park,Dey St,3
+1140,Leonard Gordon Park,Dixon Mills,1
+1141,Leonard Gordon Park,Fairmount Ave,1
+1142,Leonard Gordon Park,Hamilton Park,3
+1143,Leonard Gordon Park,Heights Elevator,1
+1144,Leonard Gordon Park,Jersey & 3rd,1
+1145,Leonard Gordon Park,Journal Square,14
+1146,Leonard Gordon Park,Lincoln Park,2
+1147,Leonard Gordon Park,Monmouth and 6th,1
+1148,Leonard Gordon Park,Montgomery St,1
+1149,Leonard Gordon Park,Newark Ave,2
+1150,Leonard Gordon Park,Newport PATH,1
+1151,Leonard Gordon Park,Newport Pkwy,2
+1152,Leonard Gordon Park,Oakland Ave,2
+1153,Leonard Gordon Park,Pershing Field,11
+1154,Leonard Gordon Park,Sip Ave,25
+1155,Leonard Gordon Park,Van Vorst Park,1
+1156,Liberty Light Rail,5 Corners Library,1
+1157,Liberty Light Rail,Astor Place,1
+1158,Liberty Light Rail,Baldwin at Montgomery,4
+1159,Liberty Light Rail,Bergen Ave,2
+1160,Liberty Light Rail,Brunswick & 6th,5
+1161,Liberty Light Rail,Brunswick St,10
+1162,Liberty Light Rail,City Hall,106
+1163,Liberty Light Rail,Columbus Dr at Exchange Pl,27
+1164,Liberty Light Rail,Columbus Drive,5
+1165,Liberty Light Rail,Communipaw & Berry Lane,22
+1166,Liberty Light Rail,Dixon Mills,15
+1167,Liberty Light Rail,Essex Light Rail,6
+1168,Liberty Light Rail,Fairmount Ave,3
+1169,Liberty Light Rail,Grand St,16
+1170,Liberty Light Rail,Grove St PATH,153
+1171,Liberty Light Rail,Hamilton Park,12
+1172,Liberty Light Rail,Harborside,36
+1173,Liberty Light Rail,Hoboken Ave at Monmouth St,1
+1174,Liberty Light Rail,JC Medical Center,61
+1175,Liberty Light Rail,Jackson Square,4
+1176,Liberty Light Rail,Jersey & 3rd,20
+1177,Liberty Light Rail,Jersey & 6th St,6
+1178,Liberty Light Rail,Journal Square,3
+1179,Liberty Light Rail,Lafayette Park,38
+1180,Liberty Light Rail,Lincoln Park,5
+1181,Liberty Light Rail,Manila & 1st,11
+1182,Liberty Light Rail,Marin Light Rail,67
+1183,Liberty Light Rail,McGinley Square,2
+1184,Liberty Light Rail,Monmouth and 6th,6
+1185,Liberty Light Rail,Montgomery St,19
+1186,Liberty Light Rail,Morris Canal,8
+1187,Liberty Light Rail,Newark Ave,38
+1188,Liberty Light Rail,Newport PATH,15
+1189,Liberty Light Rail,Newport Pkwy,14
+1190,Liberty Light Rail,Paulus Hook,9
+1191,Liberty Light Rail,Sip Ave,5
+1192,Liberty Light Rail,Union St,1
+1193,Liberty Light Rail,Van Vorst Park,46
+1194,Liberty Light Rail,Warren St,16
+1195,Liberty Light Rail,Washington St,9
+1196,Liberty Light Rail,Westchester Ave & Southern Blvd,1
+1197,Liberty Light Rail,York St,7
+1198,Lincoln Park,Astor Place,42
+1199,Lincoln Park,Baldwin at Montgomery,10
+1200,Lincoln Park,Bergen Ave,8
+1201,Lincoln Park,Brunswick & 6th,2
+1202,Lincoln Park,Brunswick St,1
+1203,Lincoln Park,Christ Hospital,1
+1204,Lincoln Park,City Hall,6
+1205,Lincoln Park,Communipaw & Berry Lane,2
+1206,Lincoln Park,Dey St,3
+1207,Lincoln Park,Dixon Mills,3
+1208,Lincoln Park,Fairmount Ave,26
+1209,Lincoln Park,Glenwood Ave,9
+1210,Lincoln Park,Grand St,2
+1211,Lincoln Park,Grove St PATH,4
+1212,Lincoln Park,Hamilton Park,4
+1213,Lincoln Park,Harborside,4
+1214,Lincoln Park,Hilltop,6
+1215,Lincoln Park,Hoboken Ave at Monmouth St,10
+1216,Lincoln Park,Jackson Square,3
+1217,Lincoln Park,Jersey & 6th St,1
+1218,Lincoln Park,Journal Square,7
+1219,Lincoln Park,Lafayette Park,1
+1220,Lincoln Park,Leonard Gordon Park,2
+1221,Lincoln Park,Manila & 1st,1
+1222,Lincoln Park,Marin Light Rail,6
+1223,Lincoln Park,McGinley Square,8
+1224,Lincoln Park,Monmouth and 6th,1
+1225,Lincoln Park,Montgomery St,1
+1226,Lincoln Park,Newark Ave,3
+1227,Lincoln Park,Newport Pkwy,5
+1228,Lincoln Park,Paulus Hook,1
+1229,Lincoln Park,Pershing Field,2
+1230,Lincoln Park,Riverview Park,3
+1231,Lincoln Park,Sip Ave,38
+1232,Lincoln Park,Union St,4
+1233,Lincoln Park,Van Vorst Park,2
+1234,Lincoln Park,Warren St,1
+1235,Lincoln Park,Washington St,1
+1236,Lincoln Park,York St,1
+1237,Manila & 1st,Astor Place,1
+1238,Manila & 1st,Baldwin at Montgomery,1
+1239,Manila & 1st,Brunswick & 6th,37
+1240,Manila & 1st,Brunswick St,16
+1241,Manila & 1st,Christ Hospital,3
+1242,Manila & 1st,City Hall,13
+1243,Manila & 1st,Columbus Dr at Exchange Pl,8
+1244,Manila & 1st,Columbus Drive,5
+1245,Manila & 1st,Communipaw & Berry Lane,1
+1246,Manila & 1st,Dixon Mills,7
+1247,Manila & 1st,Essex Light Rail,2
+1248,Manila & 1st,Glenwood Ave,4
+1249,Manila & 1st,Grand St,11
+1250,Manila & 1st,Grove St PATH,14
+1251,Manila & 1st,Hamilton Park,77
+1252,Manila & 1st,Harborside,16
+1253,Manila & 1st,Heights Elevator,4
+1254,Manila & 1st,Hilltop,2
+1255,Manila & 1st,Hoboken Ave at Monmouth St,17
+1256,Manila & 1st,JC Medical Center,7
+1257,Manila & 1st,Jersey & 3rd,24
+1258,Manila & 1st,Jersey & 6th St,39
+1259,Manila & 1st,Lafayette Park,2
+1260,Manila & 1st,Liberty Light Rail,3
+1261,Manila & 1st,Lincoln Park,3
+1262,Manila & 1st,Marin Light Rail,35
+1263,Manila & 1st,McGinley Square,1
+1264,Manila & 1st,Monmouth and 6th,35
+1265,Manila & 1st,Montgomery St,11
+1266,Manila & 1st,Morris Canal,4
+1267,Manila & 1st,Newark Ave,2
+1268,Manila & 1st,Newport PATH,19
+1269,Manila & 1st,Newport Pkwy,20
+1270,Manila & 1st,Oakland Ave,2
+1271,Manila & 1st,Paulus Hook,10
+1272,Manila & 1st,Pershing Field,1
+1273,Manila & 1st,Riverview Park,1
+1274,Manila & 1st,Sip Ave,2
+1275,Manila & 1st,Van Vorst Park,4
+1276,Manila & 1st,Warren St,21
+1277,Manila & 1st,Washington St,7
+1278,Manila & 1st,York St,1
+1279,Marin Light Rail,Astor Place,2
+1280,Marin Light Rail,Baldwin at Montgomery,4
+1281,Marin Light Rail,Brunswick & 6th,15
+1282,Marin Light Rail,Brunswick St,17
+1283,Marin Light Rail,Christ Hospital,5
+1284,Marin Light Rail,City Hall,82
+1285,Marin Light Rail,Columbus Dr at Exchange Pl,59
+1286,Marin Light Rail,Columbus Drive,33
+1287,Marin Light Rail,Communipaw & Berry Lane,8
+1288,Marin Light Rail,Dixon Mills,11
+1289,Marin Light Rail,Essex Light Rail,50
+1290,Marin Light Rail,Fairmount Ave,49
+1291,Marin Light Rail,Glenwood Ave,8
+1292,Marin Light Rail,Grand St,14
+1293,Marin Light Rail,Grove St PATH,207
+1294,Marin Light Rail,Hamilton Park,29
+1295,Marin Light Rail,Harborside,47
+1296,Marin Light Rail,Heights Elevator,1
+1297,Marin Light Rail,Hilltop,4
+1298,Marin Light Rail,Hoboken Ave at Monmouth St,5
+1299,Marin Light Rail,JC Medical Center,73
+1300,Marin Light Rail,Jersey & 3rd,12
+1301,Marin Light Rail,Jersey & 6th St,5
+1302,Marin Light Rail,Lafayette Park,4
+1303,Marin Light Rail,Liberty Light Rail,57
+1304,Marin Light Rail,Lincoln Park,2
+1305,Marin Light Rail,Manila & 1st,19
+1306,Marin Light Rail,McGinley Square,2
+1307,Marin Light Rail,Monmouth and 6th,5
+1308,Marin Light Rail,Montgomery St,26
+1309,Marin Light Rail,Morris Canal,19
+1310,Marin Light Rail,Newark Ave,26
+1311,Marin Light Rail,Newport PATH,84
+1312,Marin Light Rail,Newport Pkwy,28
+1313,Marin Light Rail,Paulus Hook,57
+1314,Marin Light Rail,Pershing Field,1
+1315,Marin Light Rail,Pier 40 Dock Station,1
+1316,Marin Light Rail,Sip Ave,1
+1317,Marin Light Rail,South St & Gouverneur Ln,1
+1318,Marin Light Rail,Van Vorst Park,32
+1319,Marin Light Rail,Vesey Pl & River Terrace,1
+1320,Marin Light Rail,Warren St,53
+1321,Marin Light Rail,Washington St,55
+1322,Marin Light Rail,York St,7
+1323,McGinley Square,5 Corners Library,4
+1324,McGinley Square,Astor Place,22
+1325,McGinley Square,Baldwin at Montgomery,16
+1326,McGinley Square,Bergen Ave,4
+1327,McGinley Square,Bloomfield St & 15 St,1
+1328,McGinley Square,Brunswick & 6th,4
+1329,McGinley Square,Brunswick St,4
+1330,McGinley Square,Christ Hospital,2
+1331,McGinley Square,City Hall,10
+1332,McGinley Square,Columbus Dr at Exchange Pl,5
+1333,McGinley Square,Communipaw & Berry Lane,1
+1334,McGinley Square,Dey St,1
+1335,McGinley Square,Dixon Mills,6
+1336,McGinley Square,Fairmount Ave,7
+1337,McGinley Square,Glenwood Ave,4
+1338,McGinley Square,Grand St,9
+1339,McGinley Square,Grove St PATH,11
+1340,McGinley Square,Hamilton Park,12
+1341,McGinley Square,Harborside,13
+1342,McGinley Square,Heights Elevator,2
+1343,McGinley Square,Hilltop,7
+1344,McGinley Square,JC Medical Center,8
+1345,McGinley Square,Jackson Square,2
+1346,McGinley Square,Jersey & 3rd,1
+1347,McGinley Square,Jersey & 6th St,4
+1348,McGinley Square,Journal Square,12
+1349,McGinley Square,Lafayette Park,3
+1350,McGinley Square,Leonard Gordon Park,5
+1351,McGinley Square,Liberty Light Rail,8
+1352,McGinley Square,Lincoln Park,12
+1353,McGinley Square,Manila & 1st,5
+1354,McGinley Square,Marin Light Rail,11
+1355,McGinley Square,Monmouth and 6th,2
+1356,McGinley Square,Montgomery St,11
+1357,McGinley Square,Newark Ave,15
+1358,McGinley Square,Newport PATH,6
+1359,McGinley Square,Newport Pkwy,24
+1360,McGinley Square,Oakland Ave,4
+1361,McGinley Square,Pershing Field,6
+1362,McGinley Square,Riverview Park,2
+1363,McGinley Square,Sip Ave,332
+1364,McGinley Square,Union St,6
+1365,McGinley Square,Van Vorst Park,4
+1366,McGinley Square,Warren St,6
+1367,McGinley Square,Washington St,4
+1368,McGinley Square,York St,3
+1369,Monmouth and 6th,5 Corners Library,1
+1370,Monmouth and 6th,Astor Place,2
+1371,Monmouth and 6th,Brunswick & 6th,15
+1372,Monmouth and 6th,Brunswick St,6
+1373,Monmouth and 6th,Christ Hospital,1
+1374,Monmouth and 6th,City Hall,7
+1375,Monmouth and 6th,Columbus Dr at Exchange Pl,49
+1376,Monmouth and 6th,Columbus Drive,3
+1377,Monmouth and 6th,Communipaw & Berry Lane,2
+1378,Monmouth and 6th,Dixon Mills,2
+1379,Monmouth and 6th,Essex Light Rail,3
+1380,Monmouth and 6th,Glenwood Ave,1
+1381,Monmouth and 6th,Grand St,11
+1382,Monmouth and 6th,Grove St PATH,85
+1383,Monmouth and 6th,Hamilton Park,21
+1384,Monmouth and 6th,Harborside,4
+1385,Monmouth and 6th,Heights Elevator,4
+1386,Monmouth and 6th,Hilltop,2
+1387,Monmouth and 6th,Hoboken Ave at Monmouth St,4
+1388,Monmouth and 6th,JC Medical Center,10
+1389,Monmouth and 6th,Jersey & 3rd,12
+1390,Monmouth and 6th,Jersey & 6th St,5
+1391,Monmouth and 6th,Lafayette Park,5
+1392,Monmouth and 6th,Liberty Light Rail,4
+1393,Monmouth and 6th,Lincoln Park,2
+1394,Monmouth and 6th,Manila & 1st,33
+1395,Monmouth and 6th,Marin Light Rail,6
+1396,Monmouth and 6th,Montgomery St,6
+1397,Monmouth and 6th,Morris Canal,2
+1398,Monmouth and 6th,Newark Ave,21
+1399,Monmouth and 6th,Newport PATH,9
+1400,Monmouth and 6th,Newport Pkwy,8
+1401,Monmouth and 6th,Paulus Hook,11
+1402,Monmouth and 6th,Pershing Field,13
+1403,Monmouth and 6th,Riverview Park,2
+1404,Monmouth and 6th,Sip Ave,1
+1405,Monmouth and 6th,Van Vorst Park,2
+1406,Monmouth and 6th,Warren St,19
+1407,Monmouth and 6th,Washington St,4
+1408,Monmouth and 6th,York St,1
+1409,Montgomery St,5 Corners Library,2
+1410,Montgomery St,Astor Place,4
+1411,Montgomery St,Baldwin at Montgomery,5
+1412,Montgomery St,Bergen Ave,3
+1413,Montgomery St,Brunswick & 6th,3
+1414,Montgomery St,Brunswick St,3
+1415,Montgomery St,Christ Hospital,6
+1416,Montgomery St,City Hall,9
+1417,Montgomery St,Columbus Dr at Exchange Pl,8
+1418,Montgomery St,Columbus Drive,17
+1419,Montgomery St,Dixon Mills,16
+1420,Montgomery St,Essex Light Rail,2
+1421,Montgomery St,Fairmount Ave,2
+1422,Montgomery St,Grand St,12
+1423,Montgomery St,Grove St PATH,60
+1424,Montgomery St,Hamilton Park,27
+1425,Montgomery St,Harborside,13
+1426,Montgomery St,Heights Elevator,3
+1427,Montgomery St,Hilltop,4
+1428,Montgomery St,Hoboken Ave at Monmouth St,1
+1429,Montgomery St,JC Medical Center,9
+1430,Montgomery St,Jackson Square,1
+1431,Montgomery St,Jersey & 3rd,6
+1432,Montgomery St,Jersey & 6th St,7
+1433,Montgomery St,Lafayette Park,11
+1434,Montgomery St,Leonard Gordon Park,1
+1435,Montgomery St,Liberty Light Rail,18
+1436,Montgomery St,Lincoln Park,1
+1437,Montgomery St,Manila & 1st,10
+1438,Montgomery St,Marin Light Rail,26
+1439,Montgomery St,McGinley Square,4
+1440,Montgomery St,Monmouth and 6th,15
+1441,Montgomery St,Morris Canal,1
+1442,Montgomery St,Newark Ave,10
+1443,Montgomery St,Newport PATH,24
+1444,Montgomery St,Newport Pkwy,26
+1445,Montgomery St,Paulus Hook,4
+1446,Montgomery St,Pershing Field,9
+1447,Montgomery St,Riverview Park,1
+1448,Montgomery St,Sip Ave,2
+1449,Montgomery St,Van Vorst Park,8
+1450,Montgomery St,Warren St,25
+1451,Montgomery St,Washington St,23
+1452,Montgomery St,York St,9
+1453,Morris Canal,Baldwin at Montgomery,1
+1454,Morris Canal,Brunswick & 6th,14
+1455,Morris Canal,Brunswick St,11
+1456,Morris Canal,City Hall,30
+1457,Morris Canal,Columbus Dr at Exchange Pl,129
+1458,Morris Canal,Columbus Drive,13
+1459,Morris Canal,Communipaw & Berry Lane,3
+1460,Morris Canal,Dey St,1
+1461,Morris Canal,Dixon Mills,7
+1462,Morris Canal,Essex Light Rail,15
+1463,Morris Canal,Grand St,22
+1464,Morris Canal,Grove St PATH,95
+1465,Morris Canal,Hamilton Park,10
+1466,Morris Canal,Harborside,48
+1467,Morris Canal,Hilltop,1
+1468,Morris Canal,Hoboken Ave at Monmouth St,3
+1469,Morris Canal,JC Medical Center,27
+1470,Morris Canal,Jersey & 3rd,4
+1471,Morris Canal,Jersey & 6th St,3
+1472,Morris Canal,Lafayette Park,4
+1473,Morris Canal,Liberty Light Rail,12
+1474,Morris Canal,Manila & 1st,2
+1475,Morris Canal,Marin Light Rail,16
+1476,Morris Canal,Monmouth and 6th,3
+1477,Morris Canal,Montgomery St,5
+1478,Morris Canal,Newark Ave,7
+1479,Morris Canal,Newport PATH,29
+1480,Morris Canal,Newport Pkwy,32
+1481,Morris Canal,Oakland Ave,2
+1482,Morris Canal,Paulus Hook,41
+1483,Morris Canal,Van Vorst Park,16
+1484,Morris Canal,Warren St,39
+1485,Morris Canal,Washington St,13
+1486,Morris Canal,York St,14
+1487,Newark Ave,5 Corners Library,2
+1488,Newark Ave,Astor Place,5
+1489,Newark Ave,Baldwin at Montgomery,5
+1490,Newark Ave,Bergen Ave,3
+1491,Newark Ave,Brunswick & 6th,29
+1492,Newark Ave,Brunswick St,33
+1493,Newark Ave,Christ Hospital,4
+1494,Newark Ave,City Hall,22
+1495,Newark Ave,Columbus Dr at Exchange Pl,16
+1496,Newark Ave,Columbus Drive,5
+1497,Newark Ave,Communipaw & Berry Lane,4
+1498,Newark Ave,Dixon Mills,19
+1499,Newark Ave,Essex Light Rail,8
+1500,Newark Ave,Fairmount Ave,4
+1501,Newark Ave,Grand St,15
+1502,Newark Ave,Grove St PATH,20
+1503,Newark Ave,Hamilton Park,68
+1504,Newark Ave,Harborside,24
+1505,Newark Ave,Heights Elevator,3
+1506,Newark Ave,Hilltop,6
+1507,Newark Ave,Hoboken Ave at Monmouth St,10
+1508,Newark Ave,JC Medical Center,46
+1509,Newark Ave,Jackson Square,5
+1510,Newark Ave,Jersey & 3rd,12
+1511,Newark Ave,Jersey & 6th St,31
+1512,Newark Ave,Lafayette Park,7
+1513,Newark Ave,Liberty Light Rail,24
+1514,Newark Ave,Lincoln Park,4
+1515,Newark Ave,Manila & 1st,5
+1516,Newark Ave,Marin Light Rail,34
+1517,Newark Ave,McGinley Square,4
+1518,Newark Ave,Monmouth and 6th,13
+1519,Newark Ave,Montgomery St,11
+1520,Newark Ave,Morris Canal,10
+1521,Newark Ave,Newport PATH,18
+1522,Newark Ave,Newport Pkwy,11
+1523,Newark Ave,Oakland Ave,3
+1524,Newark Ave,Paulus Hook,7
+1525,Newark Ave,Pershing Field,1
+1526,Newark Ave,Riverview Park,3
+1527,Newark Ave,Sip Ave,6
+1528,Newark Ave,Van Vorst Park,21
+1529,Newark Ave,Warren St,20
+1530,Newark Ave,Washington St,28
+1531,Newark Ave,York St,2
+1532,Newport PATH,5 Corners Library,5
+1533,Newport PATH,Baldwin at Montgomery,8
+1534,Newport PATH,Bergen Ave,1
+1535,Newport PATH,Brunswick & 6th,15
+1536,Newport PATH,Brunswick St,10
+1537,Newport PATH,Christ Hospital,4
+1538,Newport PATH,City Hall,23
+1539,Newport PATH,Columbus Dr at Exchange Pl,45
+1540,Newport PATH,Columbus Drive,37
+1541,Newport PATH,Dixon Mills,13
+1542,Newport PATH,Essex Light Rail,10
+1543,Newport PATH,Fort Washington Ave & W 173 St,1
+1544,Newport PATH,Glenwood Ave,1
+1545,Newport PATH,Grand St,50
+1546,Newport PATH,Grove St PATH,30
+1547,Newport PATH,Hamilton Park,123
+1548,Newport PATH,Harborside,150
+1549,Newport PATH,Heights Elevator,20
+1550,Newport PATH,Hilltop,20
+1551,Newport PATH,Hoboken Ave at Monmouth St,59
+1552,Newport PATH,JC Medical Center,22
+1553,Newport PATH,Jersey & 3rd,33
+1554,Newport PATH,Jersey & 6th St,14
+1555,Newport PATH,Journal Square,6
+1556,Newport PATH,Lafayette Park,4
+1557,Newport PATH,Liberty Light Rail,15
+1558,Newport PATH,Manila & 1st,26
+1559,Newport PATH,Marin Light Rail,59
+1560,Newport PATH,McGinley Square,4
+1561,Newport PATH,Monmouth and 6th,23
+1562,Newport PATH,Montgomery St,25
+1563,Newport PATH,Morris Canal,27
+1564,Newport PATH,Newark Ave,11
+1565,Newport PATH,Newport Pkwy,151
+1566,Newport PATH,Oakland Ave,4
+1567,Newport PATH,Paulus Hook,28
+1568,Newport PATH,Pershing Field,1
+1569,Newport PATH,Riverview Park,5
+1570,Newport PATH,Sip Ave,2
+1571,Newport PATH,Union St,1
+1572,Newport PATH,Van Vorst Park,27
+1573,Newport PATH,W Broadway & Spring St,1
+1574,Newport PATH,Warren St,86
+1575,Newport PATH,Washington St,47
+1576,Newport PATH,York St,4
+1577,Newport Pkwy,5 Corners Library,7
+1578,Newport Pkwy,Astor Place,1
+1579,Newport Pkwy,Baldwin at Montgomery,6
+1580,Newport Pkwy,Brunswick & 6th,18
+1581,Newport Pkwy,Brunswick St,18
+1582,Newport Pkwy,Cabrini Blvd & W 177 St,1
+1583,Newport Pkwy,Christ Hospital,1
+1584,Newport Pkwy,City Hall,18
+1585,Newport Pkwy,Columbus Dr at Exchange Pl,68
+1586,Newport Pkwy,Columbus Drive,120
+1587,Newport Pkwy,Communipaw & Berry Lane,1
+1588,Newport Pkwy,Dey St,1
+1589,Newport Pkwy,Dixon Mills,8
+1590,Newport Pkwy,Essex Light Rail,29
+1591,Newport Pkwy,Glenwood Ave,12
+1592,Newport Pkwy,Grand St,69
+1593,Newport Pkwy,Grove St PATH,69
+1594,Newport Pkwy,Hamilton Park,87
+1595,Newport Pkwy,Harborside,80
+1596,Newport Pkwy,Heights Elevator,4
+1597,Newport Pkwy,Hilltop,12
+1598,Newport Pkwy,Hoboken Ave at Monmouth St,21
+1599,Newport Pkwy,JC Medical Center,28
+1600,Newport Pkwy,Jersey & 3rd,16
+1601,Newport Pkwy,Jersey & 6th St,30
+1602,Newport Pkwy,Journal Square,17
+1603,Newport Pkwy,Liberty Light Rail,20
+1604,Newport Pkwy,Lincoln Park,1
+1605,Newport Pkwy,Manila & 1st,32
+1606,Newport Pkwy,Marin Light Rail,29
+1607,Newport Pkwy,McGinley Square,7
+1608,Newport Pkwy,Monmouth and 6th,4
+1609,Newport Pkwy,Montgomery St,23
+1610,Newport Pkwy,Morris Canal,30
+1611,Newport Pkwy,Newark Ave,10
+1612,Newport Pkwy,Newport PATH,100
+1613,Newport Pkwy,Paulus Hook,54
+1614,Newport Pkwy,Pershing Field,4
+1615,Newport Pkwy,Riverview Park,3
+1616,Newport Pkwy,Sip Ave,1
+1617,Newport Pkwy,Van Vorst Park,10
+1618,Newport Pkwy,Warren St,185
+1619,Newport Pkwy,Washington St,61
+1620,Newport Pkwy,York St,3
+1621,Oakland Ave,5 Corners Library,4
+1622,Oakland Ave,Astor Place,1
+1623,Oakland Ave,Brunswick St,5
+1624,Oakland Ave,Christ Hospital,9
+1625,Oakland Ave,City Hall,3
+1626,Oakland Ave,Columbus Dr at Exchange Pl,1
+1627,Oakland Ave,Columbus Drive,2
+1628,Oakland Ave,Communipaw & Berry Lane,1
+1629,Oakland Ave,Dey St,2
+1630,Oakland Ave,Grove St PATH,7
+1631,Oakland Ave,Hamilton Park,8
+1632,Oakland Ave,Heights Elevator,8
+1633,Oakland Ave,Hilltop,8
+1634,Oakland Ave,Hoboken Ave at Monmouth St,39
+1635,Oakland Ave,JC Medical Center,1
+1636,Oakland Ave,Jersey & 3rd,2
+1637,Oakland Ave,Jersey & 6th St,3
+1638,Oakland Ave,Journal Square,52
+1639,Oakland Ave,Leonard Gordon Park,3
+1640,Oakland Ave,Manila & 1st,11
+1641,Oakland Ave,Marin Light Rail,3
+1642,Oakland Ave,McGinley Square,1
+1643,Oakland Ave,Monmouth and 6th,2
+1644,Oakland Ave,Montgomery St,1
+1645,Oakland Ave,Morris Canal,1
+1646,Oakland Ave,Newark Ave,24
+1647,Oakland Ave,Newport PATH,8
+1648,Oakland Ave,Newport Pkwy,6
+1649,Oakland Ave,Paulus Hook,2
+1650,Oakland Ave,Pershing Field,20
+1651,Oakland Ave,Riverview Park,4
+1652,Oakland Ave,Sip Ave,19
+1653,Oakland Ave,Union St,1
+1654,Oakland Ave,Warren St,3
+1655,Oakland Ave,Washington St,3
+1656,Paulus Hook,Astor Place,2
+1657,Paulus Hook,Bergen Ave,7
+1658,Paulus Hook,Brunswick & 6th,11
+1659,Paulus Hook,Brunswick St,9
+1660,Paulus Hook,City Hall,23
+1661,Paulus Hook,Columbus Dr at Exchange Pl,31
+1662,Paulus Hook,Columbus Drive,13
+1663,Paulus Hook,Communipaw & Berry Lane,4
+1664,Paulus Hook,Dixon Mills,4
+1665,Paulus Hook,Essex Light Rail,9
+1666,Paulus Hook,Fairmount Ave,1
+1667,Paulus Hook,Grand St,24
+1668,Paulus Hook,Grove St PATH,18
+1669,Paulus Hook,Hamilton Park,71
+1670,Paulus Hook,Harborside,26
+1671,Paulus Hook,Hilltop,1
+1672,Paulus Hook,Hoboken Ave at Monmouth St,2
+1673,Paulus Hook,JC Medical Center,14
+1674,Paulus Hook,Jackson Square,2
+1675,Paulus Hook,Jersey & 3rd,5
+1676,Paulus Hook,Jersey & 6th St,9
+1677,Paulus Hook,Lafayette Park,9
+1678,Paulus Hook,Liberty Light Rail,14
+1679,Paulus Hook,Manila & 1st,15
+1680,Paulus Hook,Marin Light Rail,45
+1681,Paulus Hook,McGinley Square,1
+1682,Paulus Hook,Monmouth and 6th,18
+1683,Paulus Hook,Montgomery St,5
+1684,Paulus Hook,Morris Canal,45
+1685,Paulus Hook,Newark Ave,14
+1686,Paulus Hook,Newport PATH,32
+1687,Paulus Hook,Newport Pkwy,46
+1688,Paulus Hook,Pershing Field,1
+1689,Paulus Hook,Union St,1
+1690,Paulus Hook,Van Vorst Park,10
+1691,Paulus Hook,Warren St,41
+1692,Paulus Hook,Washington St,24
+1693,Paulus Hook,York St,8
+1694,Pershing Field,5 Corners Library,14
+1695,Pershing Field,Astor Place,36
+1696,Pershing Field,Baldwin at Montgomery,2
+1697,Pershing Field,Bergen Ave,9
+1698,Pershing Field,Brunswick & 6th,2
+1699,Pershing Field,Brunswick St,21
+1700,Pershing Field,Cabrini Blvd & W 177 St,2
+1701,Pershing Field,Christ Hospital,16
+1702,Pershing Field,Columbus Dr at Exchange Pl,2
+1703,Pershing Field,Communipaw & Berry Lane,3
+1704,Pershing Field,Dey St,10
+1705,Pershing Field,Dixon Mills,3
+1706,Pershing Field,Glenwood Ave,2
+1707,Pershing Field,Grand St,1
+1708,Pershing Field,Grove St PATH,4
+1709,Pershing Field,Hamilton Park,7
+1710,Pershing Field,Harborside,1
+1711,Pershing Field,Heights Elevator,16
+1712,Pershing Field,Hilltop,12
+1713,Pershing Field,Hoboken Ave at Monmouth St,3
+1714,Pershing Field,JC Medical Center,9
+1715,Pershing Field,Jersey & 3rd,5
+1716,Pershing Field,Jersey & 6th St,3
+1717,Pershing Field,Journal Square,12
+1718,Pershing Field,Lafayette Park,2
+1719,Pershing Field,Leonard Gordon Park,11
+1720,Pershing Field,Lincoln Park,3
+1721,Pershing Field,Manila & 1st,2
+1722,Pershing Field,Marin Light Rail,1
+1723,Pershing Field,McGinley Square,11
+1724,Pershing Field,Monmouth and 6th,25
+1725,Pershing Field,Montgomery St,5
+1726,Pershing Field,Newark Ave,16
+1727,Pershing Field,Newport PATH,6
+1728,Pershing Field,Newport Pkwy,6
+1729,Pershing Field,Oakland Ave,12
+1730,Pershing Field,Paulus Hook,1
+1731,Pershing Field,Riverview Park,5
+1732,Pershing Field,Sip Ave,38
+1733,Pershing Field,Union St,1
+1734,Pershing Field,Van Vorst Park,1
+1735,Pershing Field,Warren St,2
+1736,Pershing Field,Washington St,3
+1737,Riverview Park,12 Ave & W 40 St,1
+1738,Riverview Park,5 Corners Library,2
+1739,Riverview Park,Brunswick & 6th,5
+1740,Riverview Park,Brunswick St,5
+1741,Riverview Park,Christ Hospital,3
+1742,Riverview Park,Columbus Dr at Exchange Pl,1
+1743,Riverview Park,Dey St,2
+1744,Riverview Park,Glenwood Ave,1
+1745,Riverview Park,Grove St PATH,7
+1746,Riverview Park,Hamilton Park,4
+1747,Riverview Park,Harborside,12
+1748,Riverview Park,Heights Elevator,18
+1749,Riverview Park,Hilltop,15
+1750,Riverview Park,Hoboken Ave at Monmouth St,2
+1751,Riverview Park,JC Medical Center,3
+1752,Riverview Park,Jersey & 6th St,2
+1753,Riverview Park,Journal Square,2
+1754,Riverview Park,Leonard Gordon Park,2
+1755,Riverview Park,Lincoln Park,1
+1756,Riverview Park,Manila & 1st,3
+1757,Riverview Park,Morris Canal,2
+1758,Riverview Park,Newark Ave,2
+1759,Riverview Park,Newport PATH,6
+1760,Riverview Park,Newport Pkwy,6
+1761,Riverview Park,Oakland Ave,3
+1762,Riverview Park,Pershing Field,14
+1763,Riverview Park,Riverside Dr & W 78 St,1
+1764,Riverview Park,Sip Ave,6
+1765,Riverview Park,Van Vorst Park,2
+1766,Riverview Park,Warren St,6
+1767,Riverview Park,Washington St,1
+1768,Riverview Park,York St,3
+1769,Sip Ave,5 Corners Library,4
+1770,Sip Ave,Astor Place,110
+1771,Sip Ave,Baldwin at Montgomery,232
+1772,Sip Ave,Bergen Ave,126
+1773,Sip Ave,Brunswick & 6th,3
+1774,Sip Ave,Brunswick St,20
+1775,Sip Ave,Christ Hospital,12
+1776,Sip Ave,City Hall,6
+1777,Sip Ave,Columbus Dr at Exchange Pl,17
+1778,Sip Ave,Columbus Drive,2
+1779,Sip Ave,Communipaw & Berry Lane,10
+1780,Sip Ave,Dey St,26
+1781,Sip Ave,Dixon Mills,1
+1782,Sip Ave,Fairmount Ave,238
+1783,Sip Ave,Glenwood Ave,44
+1784,Sip Ave,Grand St,3
+1785,Sip Ave,Grove St PATH,7
+1786,Sip Ave,Hamilton Park,6
+1787,Sip Ave,Harborside,3
+1788,Sip Ave,Heights Elevator,7
+1789,Sip Ave,Hilltop,12
+1790,Sip Ave,Hoboken Ave at Monmouth St,1
+1791,Sip Ave,JC Medical Center,2
+1792,Sip Ave,Jackson Square,12
+1793,Sip Ave,Jersey & 3rd,4
+1794,Sip Ave,Jersey & 6th St,2
+1795,Sip Ave,Journal Square,11
+1796,Sip Ave,Lafayette Park,4
+1797,Sip Ave,Leonard Gordon Park,23
+1798,Sip Ave,Liberty Light Rail,12
+1799,Sip Ave,Lincoln Park,86
+1800,Sip Ave,Manila & 1st,1
+1801,Sip Ave,McGinley Square,291
+1802,Sip Ave,Monmouth and 6th,5
+1803,Sip Ave,Montgomery St,4
+1804,Sip Ave,Morris Canal,4
+1805,Sip Ave,Newark Ave,13
+1806,Sip Ave,Newport PATH,22
+1807,Sip Ave,Newport Pkwy,21
+1808,Sip Ave,Oakland Ave,16
+1809,Sip Ave,Paulus Hook,3
+1810,Sip Ave,Pershing Field,53
+1811,Sip Ave,Riverview Park,3
+1812,Sip Ave,Union St,22
+1813,Sip Ave,Van Vorst Park,12
+1814,Sip Ave,Warren St,6
+1815,Sip Ave,Washington St,7
+1816,Sip Ave,York St,1
+1817,Union St,5 Corners Library,2
+1818,Union St,Astor Place,4
+1819,Union St,Baldwin at Montgomery,2
+1820,Union St,City Hall,5
+1821,Union St,Communipaw & Berry Lane,4
+1822,Union St,Fairmount Ave,3
+1823,Union St,Grove St PATH,3
+1824,Union St,Hilltop,2
+1825,Union St,JC Medical Center,1
+1826,Union St,Jackson Square,2
+1827,Union St,Journal Square,1
+1828,Union St,Lafayette Park,1
+1829,Union St,Leonard Gordon Park,1
+1830,Union St,Lincoln Park,1
+1831,Union St,McGinley Square,2
+1832,Union St,Newark Ave,1
+1833,Union St,Newport Pkwy,1
+1834,Union St,Pershing Field,1
+1835,Union St,Sip Ave,20
+1836,Union St,Warren St,1
+1837,Van Vorst Park,5 Ave & E 88 St,1
+1838,Van Vorst Park,5 Corners Library,2
+1839,Van Vorst Park,Astor Place,5
+1840,Van Vorst Park,Baldwin at Montgomery,5
+1841,Van Vorst Park,Bergen Ave,1
+1842,Van Vorst Park,Brunswick & 6th,14
+1843,Van Vorst Park,Brunswick St,7
+1844,Van Vorst Park,Christ Hospital,2
+1845,Van Vorst Park,City Hall,29
+1846,Van Vorst Park,Columbus Dr at Exchange Pl,9
+1847,Van Vorst Park,Columbus Drive,19
+1848,Van Vorst Park,Communipaw & Berry Lane,11
+1849,Van Vorst Park,Dey St,1
+1850,Van Vorst Park,Dixon Mills,6
+1851,Van Vorst Park,Essex Light Rail,9
+1852,Van Vorst Park,Fairmount Ave,1
+1853,Van Vorst Park,Fulton St & Broadway,1
+1854,Van Vorst Park,Glenwood Ave,2
+1855,Van Vorst Park,Grand St,12
+1856,Van Vorst Park,Grove St PATH,107
+1857,Van Vorst Park,Hamilton Park,16
+1858,Van Vorst Park,Harborside,9
+1859,Van Vorst Park,Heights Elevator,3
+1860,Van Vorst Park,Hilltop,1
+1861,Van Vorst Park,Hoboken Ave at Monmouth St,3
+1862,Van Vorst Park,JC Medical Center,18
+1863,Van Vorst Park,Jackson Square,1
+1864,Van Vorst Park,Jersey & 3rd,10
+1865,Van Vorst Park,Jersey & 6th St,10
+1866,Van Vorst Park,Lafayette Park,20
+1867,Van Vorst Park,Liberty Light Rail,38
+1868,Van Vorst Park,Manila & 1st,10
+1869,Van Vorst Park,Marin Light Rail,37
+1870,Van Vorst Park,McGinley Square,3
+1871,Van Vorst Park,Monmouth and 6th,5
+1872,Van Vorst Park,Montgomery St,13
+1873,Van Vorst Park,Morris Canal,11
+1874,Van Vorst Park,Newark Ave,9
+1875,Van Vorst Park,Newport PATH,32
+1876,Van Vorst Park,Newport Pkwy,7
+1877,Van Vorst Park,Oakland Ave,1
+1878,Van Vorst Park,Paulus Hook,24
+1879,Van Vorst Park,Pershing Field,1
+1880,Van Vorst Park,Sip Ave,4
+1881,Van Vorst Park,Union St,1
+1882,Van Vorst Park,Warren St,6
+1883,Van Vorst Park,Washington St,26
+1884,Van Vorst Park,York St,9
+1885,Warren St,Astor Place,1
+1886,Warren St,Baldwin at Montgomery,4
+1887,Warren St,Bergen Ave,1
+1888,Warren St,Brunswick & 6th,17
+1889,Warren St,Brunswick St,23
+1890,Warren St,City Hall,17
+1891,Warren St,Columbus Dr at Exchange Pl,36
+1892,Warren St,Columbus Drive,35
+1893,Warren St,Dey St,1
+1894,Warren St,Dixon Mills,7
+1895,Warren St,Essex Light Rail,30
+1896,Warren St,Glenwood Ave,4
+1897,Warren St,Grand St,29
+1898,Warren St,Grove St PATH,45
+1899,Warren St,Hamilton Park,44
+1900,Warren St,Harborside,16
+1901,Warren St,Heights Elevator,1
+1902,Warren St,Hilltop,3
+1903,Warren St,Hoboken Ave at Monmouth St,5
+1904,Warren St,JC Medical Center,49
+1905,Warren St,Jersey & 3rd,10
+1906,Warren St,Jersey & 6th St,13
+1907,Warren St,Journal Square,1
+1908,Warren St,Lafayette Park,5
+1909,Warren St,Liberty Light Rail,26
+1910,Warren St,Lincoln Park,6
+1911,Warren St,Manila & 1st,8
+1912,Warren St,Marin Light Rail,44
+1913,Warren St,McGinley Square,12
+1914,Warren St,Monmouth and 6th,7
+1915,Warren St,Montgomery St,29
+1916,Warren St,Morris Canal,35
+1917,Warren St,Newark Ave,19
+1918,Warren St,Newport PATH,66
+1919,Warren St,Newport Pkwy,175
+1920,Warren St,Oakland Ave,1
+1921,Warren St,Paulus Hook,18
+1922,Warren St,Pershing Field,1
+1923,Warren St,Riverview Park,2
+1924,Warren St,Sip Ave,2
+1925,Warren St,Van Vorst Park,23
+1926,Warren St,Washington St,48
+1927,Warren St,York St,6
+1928,Washington St,Astor Place,1
+1929,Washington St,Bergen Ave,1
+1930,Washington St,Brunswick & 6th,29
+1931,Washington St,Brunswick St,10
+1932,Washington St,Christ Hospital,4
+1933,Washington St,City Hall,18
+1934,Washington St,Columbus Dr at Exchange Pl,40
+1935,Washington St,Columbus Drive,15
+1936,Washington St,Communipaw & Berry Lane,2
+1937,Washington St,Dixon Mills,3
+1938,Washington St,Essex Light Rail,10
+1939,Washington St,Glenwood Ave,1
+1940,Washington St,Grand St,30
+1941,Washington St,Grove St PATH,22
+1942,Washington St,Hamilton Park,47
+1943,Washington St,Harborside,16
+1944,Washington St,Heights Elevator,12
+1945,Washington St,Hilltop,5
+1946,Washington St,Hoboken Ave at Monmouth St,7
+1947,Washington St,JC Medical Center,13
+1948,Washington St,Jersey & 3rd,21
+1949,Washington St,Jersey & 6th St,11
+1950,Washington St,Lafayette Park,5
+1951,Washington St,Leonard Gordon Park,1
+1952,Washington St,Liberty Light Rail,6
+1953,Washington St,Manila & 1st,11
+1954,Washington St,Marin Light Rail,40
+1955,Washington St,McGinley Square,1
+1956,Washington St,Monmouth and 6th,10
+1957,Washington St,Montgomery St,15
+1958,Washington St,Morris Canal,13
+1959,Washington St,Newark Ave,22
+1960,Washington St,Newport PATH,63
+1961,Washington St,Newport Pkwy,61
+1962,Washington St,Oakland Ave,3
+1963,Washington St,Paulus Hook,22
+1964,Washington St,Riverview Park,2
+1965,Washington St,Sip Ave,3
+1966,Washington St,Van Vorst Park,15
+1967,Washington St,Warren St,20
+1968,Washington St,York St,6
+1969,York St,Astor Place,3
+1970,York St,Baldwin at Montgomery,3
+1971,York St,Bergen Ave,2
+1972,York St,Brunswick & 6th,2
+1973,York St,Brunswick St,4
+1974,York St,City Hall,14
+1975,York St,Cleveland Pl & Spring St,1
+1976,York St,Columbus Dr at Exchange Pl,33
+1977,York St,Columbus Drive,2
+1978,York St,Communipaw & Berry Lane,1
+1979,York St,Essex Light Rail,6
+1980,York St,Grand St,2
+1981,York St,Grove St PATH,30
+1982,York St,Hamilton Park,8
+1983,York St,Harborside,8
+1984,York St,Heights Elevator,1
+1985,York St,Hilltop,1
+1986,York St,JC Medical Center,6
+1987,York St,Jersey & 3rd,5
+1988,York St,Jersey & 6th St,2
+1989,York St,Liberty Light Rail,3
+1990,York St,Manila & 1st,1
+1991,York St,Marin Light Rail,16
+1992,York St,Monmouth and 6th,2
+1993,York St,Montgomery St,5
+1994,York St,Morris Canal,3
+1995,York St,Newark Ave,7
+1996,York St,Newport PATH,7
+1997,York St,Newport Pkwy,6
+1998,York St,Paulus Hook,3
+1999,York St,Sip Ave,1
+2000,York St,Van Vorst Park,13
+2001,York St,Warren St,7
+2002,York St,Washington St,3

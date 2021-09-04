@@ -1,4 +1,4 @@
-# Tableau CitiBike Analytics
+# Tableau CitiBike Analysis
 
 -   [Table of contents](#table-of-contents)
 -   [About](#about)

@@ -1,11 +1,11 @@
-<<<<<<< HEAD
 # Tableau CitiBike Analytics
 
 -   [About](#about)
 -   [How to View](#how-to-view)
 -   [ETL Data Preparation](#etl-data-preparation)
+-   [Research Questions](#research-questions)
 -   [Analysis](#analysis)
--   [Installation and Usage](#installation-and-usage)
+-   [Tools and Other References](tools-and-other-references)
 -   [Credits, tools and other references](#credits-tools-and-other-references)
 
 ## About
@@ -45,20 +45,24 @@ Citi Bike usage in Jersey City, NJ for Q1 2021. This report is a summary of of b
 The analysis is divided into four sections; Station Popularity, Station Drill Down, Bike Useage, Top Station Performance.
 
 #### Station Utilization
-There are over 50 Citi Bike Stations, in Jersey City, that recorded over 29K trips, and over 8,000 miles, in the first 3-months of the year.
+There are over 50 Citi Bike Stations, in Jersey City. Collectively there were over 29K trips recorded in the first the 3-months of the year, and over 8,000 miles. 
 
 #### Station Drill Down
-Of over 50 stations, six Citi Bike Stations originated over 1,000 trips in Q1. The same six accounted for 39% of all recorded rides.
+Of over 50 stations, six Citi Bike Stations, Grove St PATH, Sip Ave, Hamilton Park, Newport Pkwy, Newport PATH, and Marin Light Rail (MLR), originated over 1,000 trips in Q1. 
+- The same six accounted for 39% of all recorded rides.
+- The most popular start bike station is Grove St PATH and Sip Ave 
+- The highest utilized ride segments to start/end are between rail stations, with MLR to Grove St and Grove St to MLR 
 
 #### Bike Useage
-It was surprising to find that there were a number of riders using Citi Bike in the winter months of January and February. Useage increased, as the wather warmed from a January average of 34 degrees to 65 degrees in March
+It was surprising to find that there were a number of riders using Citi Bike in the winter months of January and February. 
+- Usage increased over 400% from, February to March, as the weather warmed 40 degrees to 68 degrees respectively.
+- The average distance traveled from the start to end station is .56 miles. 
 
 #### Top Station Performance
 Grover St PATH is the most popular starting station, as demonstrated by the number of riders starting their transit. In fact, the number of riders at the station is 75% greater than the next busiest station at Sip Ave.
 
 This makes sense since it is the terminal station for several public rail lines 
 
-## Installation and Usage
 
 ## Tools and Other References
 - Jupyter Notebook
@@ -66,56 +70,4 @@ This makes sense since it is the terminal station for several public rail lines
 ```bash
 import pandas as pd
 ```
-=======
-# Tableau CitiBike Analysis
 
--   [Table of contents](#table-of-contents)
--   [About](#about)
--   [How to View](#how-to-view)
--   [Data Preparation](#data-preparation)
--   [Observations](#observations)
--   [Installation and Usage](#installation-and-usage)
--   [Credits, tools and other references](#credits-tools-and-other-references)
-
-## About
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin at quam et orci
-ultricies ornare. Fusce nec magna aliquet, congue ante in, lobortis augue. Nunc
-hendrerit massa ut risus molestie egestas.
-
-
-### 
-
-## How to View
-1. [Data Source](https://www.citibikenyc.com/system-data)
-2. Go to this link to see my [Tableau Public Workbook](https://public.tableau.com/profile/...)
-3. In the lower, right corner of the slide is the "Full Screen" mode - click it.
-![tableau slide](https://github.com/speedracer05/...)
-
-## Data Preparation
-- Extracted data from CitiBike
-- Transformed data in Jupyter Notebook
-..* Exported data into a csv file
-- Loaded dataset into a Tableau workbook
-
-## Research Questions
-1. Top 10 stations for starting a ride (compare subscription vs casual riders)
-2. Top 10 stations for terminating a ride
-3. Ratio of Subscribers vs Casual customers
-4. Top 3 stations with highest traffic
-5. Top 3 stations with lowest traffic
-6. Number of under utilized stations
-7. Total number of trips
-8. Growth rate month to month
-9. Growth qtr over qtr (Jan-Mar '20 vs '21)
-
-
-## Observations
-
-## Installation and Usage
-
-## Credits, Tools and Other References
-
-```bash
-import pandas as pd
-```
->>>>>>> 8f7de7f121dae0bbd0aaa3fc4445ab3f72d3308c

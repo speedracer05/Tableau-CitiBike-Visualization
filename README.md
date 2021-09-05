@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Tableau CitiBike Analytics
 
 -   [About](#about)
@@ -73,4 +72,3 @@ import pandas as pd
 ```
 =======
 
->>>>>>> 8f7de7f121dae0bbd0aaa3fc4445ab3f72d3308c

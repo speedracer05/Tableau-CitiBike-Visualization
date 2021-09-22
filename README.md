@@ -1,18 +1,19 @@
 # Tableau CitiBike Analytics
+## University of California Davis Data Analytics and Visualization Boot Camp 2021
 
--   [About](#about)
+<p align="center">
+<img src="Images/citi-bike-station-bikes.jpg" width="720">
+</p>
+
+This report provides a summary of Citi Bike usage in Jersey City, NJ for the first quarter of 2021. The data source utilized for this project was from [Citibike](https://www.citibikenyc.com/system-data). The objective is to aggregate data from Jersey City, Citi Bike Trip History Logs and design a visualization for each discovered phenomena.
+
+## Table of Contents
 -   [How to View](#how-to-view)
 -   [ETL Data Preparation](#etl-data-preparation)
 -   [Research Questions](#research-questions)
 -   [Analysis](#analysis)
 -   [Tools and Other References](tools-and-other-references)
 -   [Credits, tools and other references](#credits-tools-and-other-references)
-
-## About
-Citi Bike usage in Jersey City, NJ for Q1 2021. This report is a summary of of bike usage in the first quarter of 2021, using data provided by [Citibike](https://www.citibikenyc.com/system-data). The objective is to aggregate the data from Jersey City Citi Bike Trip History Logs and design a visualization for each discovered phenomena.
-
-
-### 
 
 ## How to View
 1. [Data Source](https://www.citibikenyc.com/system-data)
